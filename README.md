@@ -47,6 +47,4 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 
 
-# add image:
-<img src = "https://github.com/Tontan-Hak/Learning-programming/blob/main/IMG_6907.JPG" width = 20% height = 30% >
-
+# Python for everyone:
