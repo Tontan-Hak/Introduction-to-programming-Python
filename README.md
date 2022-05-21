@@ -38,4 +38,5 @@ Reminding: Do you have a choice not to do it?
 
 *foo *bar* baz*
 
-\## foo
+Foo
+   ----      
