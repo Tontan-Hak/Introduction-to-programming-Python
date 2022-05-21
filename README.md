@@ -43,7 +43,9 @@ Foo
 
 Foo
 -
+
 bar
 +
+
 baz
 *
