@@ -4,11 +4,6 @@
 
 I am happy when I can improve myself just 1% everyday.
 
-Reminding: Do you have a choice not to do it?
-
-
-      "Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.
-
 # 📌 Self Study 📌
 - [Mathematics for Computer Science MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
     * [Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
