@@ -11,7 +11,7 @@ Reminding: Do you have a choice not to do it?
 
 # 📌 Self Study 📌
 - [Mathematics for Computer Science MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
-    * [procrastination]() | [Lazy]() | [Unmotivation]()
+    * [Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
     * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
     * [Time management](https://docs.google.com/document/d/1rasGsY4p3krFH_Yj7ADcarizARBhCTF7/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
     * [Teaching and learning priciples](https://drive.google.com/file/d/1LS4PAPM9JEN97oc5DphyWT0Ti-y5v5Ai/view?usp=sharing)
