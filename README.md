@@ -1,6 +1,6 @@
 # 🚀 Get started 
 
-      It should be one of our mission to improve everyday for the better
+        Reminding: The key to success is staying consistent and beating procrastination.
 
 I am happy when I can improve myself just 1% everyday.
 
