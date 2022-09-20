@@ -15,13 +15,10 @@ I am happy when I can improve myself just 1% everyday.
     * [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
  # Website 
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
-  
-    
-    
-    
-    
-    
-    
+  - [W3school](https://www.w3schools.com/)
+  - [Codeacademy](https://www.codecademy.com/catalog)
+  - [Coursera](https://www.coursera.org/)
+  - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
     
     
     
