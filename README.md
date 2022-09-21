@@ -1,39 +1,37 @@
-# 🚀 Get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 🚀 Get started 
 
-Reminding: Do you have a choice not to do it?
+        Reminding: The key to success is staying consistent and beating procrastination.
 
-"Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.
+I am happy when I can improve myself just 1% everyday.
 
------
+# 📌 Self Study 📌
+- [Mathematics for Computer Science MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
+    * [Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+    * [Intro to Computational Thinking and Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+    * [Introduction to linear algebra and ordinary differential equations](https://www.youtube.com/playlist?list=PLUl4u3cNGP63w3DE9izYp_3fpAdi0Wkga)
+    * [Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+    * [Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+    * [Introduction to Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+    * [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+ # 🔎 Website 
+  - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
+  - [W3school](https://www.w3schools.com/)
+  - [Codeacademy](https://www.codecademy.com/catalog)
+  - [Coursera](https://www.coursera.org/)
+  - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
+    
+    
+    
+    
+## License 
 
-# 📌 Self-awareness 📌
-- [KEY IMPORTANT POINTS]()
-    * [procrastination]() | [Lazy]() | [Unmotivation]()
-    * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
-    * [Time management](https://docs.google.com/document/d/1rasGsY4p3krFH_Yj7ADcarizARBhCTF7/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
-    * [Teaching and learning priciples](https://drive.google.com/file/d/1LS4PAPM9JEN97oc5DphyWT0Ti-y5v5Ai/view?usp=sharing)
-    * [Think outside the box](https://youtu.be/Dk6xrhF3zTQ)
-    * [The process of reflection](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-# 🔍 Laboratory/Tutorial Exercises 🔍
-- [Reflection and Lab]()
-    * [Week1](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
-    * [Week2](https://docs.google.com/document/d/1ApnZKPMEQBkbxJWXzSJQaNlWHuFCD97F3TKawHyxHfc/edit)
-    * [Week3](https://docs.google.com/document/d/1TX-0a3WCH5KkmBvtza2ivKGhjGndwLM32HfThIZyaKQ/edit)
-    * [Week4](https://docs.google.com/document/d/1iRpAvtwQvceX9oCVOWMfuXBOnsK8bvrYg669Qw-sHWs/edit)
-    * [Week5](https://docs.google.com/document/d/1n54oN-GNjPzrAiIssbokumT1rCSZoeVa6U7yZJAzd80/edit)
-    * [Week6](https://docs.google.com/document/d/1WuzUI-noSh3OQrvhrD5qVwOnn7chuTYlxYnJPXCLnm4/edit)
-    * [Week7](https://docs.google.com/document/d/15mGjvoCq2Cu58m5wB4Nq3-AsV7OrIlKWBDnTvr0QTWU/edit)
-    * [Week8](https://docs.google.com/document/d/1wcjZiIlJgY6mymZHZ13ZpxKWxL5T0ipFK1GjTJPv6aQ/edit)
-    * [Week9](https://docs.google.com/document/d/1jF03v5kJ-Nb-1J8CTREACwFjRCPXzg3gOWrVXYdwj3Q/edit)
+<a href="https://github.com/Tontan-Hak/Learn_code/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Learn_code" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Learn_code" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Learn_code" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Learn_code" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Learn_code?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
 
-
-
-# Python for everyone:
-1.  one
-    - a
-
-    - b
-2.  two
-
-
+--- 
