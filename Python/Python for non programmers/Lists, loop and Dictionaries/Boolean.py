@@ -20,3 +20,20 @@ print(bool(""))
 print(bool(()))
 print(bool([]))
 print(bool({}))
+
+# 
+class myclass():
+  def __len__(self):
+    return 1
+
+myobj = myclass()
+print(bool(myobj))
+
+# Functions can Return a Boolean
+def myFunction() :
+  return True
+
+if myFunction():
+  print("YES!")
+else:
+  print("NO!")
