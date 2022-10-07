@@ -16,7 +16,7 @@ I am happy when I can improve myself just 1% everyday.
  # 🔎 Website 
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
-  - [Codeacademy](https://www.codecademy.com/catalog)
+  - [Codecademy](https://www.codecademy.com/catalog)
   - [Coursera](https://www.coursera.org/)
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
