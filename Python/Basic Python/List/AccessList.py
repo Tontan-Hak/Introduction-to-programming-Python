@@ -32,3 +32,23 @@ if "Apple" in Thislist:
 thislist = ["Banana", "Apple", "Papaya"]
 thislist[1] = "Durren"
 print(thislist)
+
+# Change Item List
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+thislist[1:3] = ["blackcurrant", "watermelon"]
+print(thislist)
+# Change the second value by replacing it with two new values:
+thislist = ["apple", "banana", "cherry"]
+thislist[1:2] = ["blackcurrant", "watermelon"]
+print(thislist)
+
+# Insert Items
+fruit = ["apple", "banana","anana"]
+fruit.insert(2, "watermelon")
+print(fruit)
+
+# Extend List
+thislist = ["A", "B", "C"]
+tropical = ["D", "E", "F"]
+thislist.extend(tropical)
+print(thislist)
