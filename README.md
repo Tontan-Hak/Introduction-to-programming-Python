@@ -26,7 +26,7 @@ I am happy when I can improve myself just 1% everyday.
 - [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
 - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/?fbclid=IwAR2MOM6ydxFT-T18_v2pvgMYqGqPBcG9_G9p1veCYIzBlYdo8_N9K7vfTeA)
 - [What is Software Engineering?](https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/)
-- [What is a Full Stack Developer?](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/)
+- [What is a Full Stack Developer? Back End + Front End = Full Stack Engineer](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/)
 - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
 - [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
 
