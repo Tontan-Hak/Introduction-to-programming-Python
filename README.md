@@ -30,6 +30,7 @@ I am happy when I can improve myself just 1% everyday.
 - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
 - [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
 - [What is a Computer Scientist? What Exactly Do CS Majors Do?](https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/)
+- [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
 
 ## License 
 
