@@ -18,6 +18,7 @@ I am happy when I can improve myself just 1% everyday.
   - [W3school](https://www.w3schools.com/)
   - [Codecademy](https://www.codecademy.com/catalog)
   - [Coursera](https://www.coursera.org/)
+  - [edx](https://www.edx.org/)
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
     
