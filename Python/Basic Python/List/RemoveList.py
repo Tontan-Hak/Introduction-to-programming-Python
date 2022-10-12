@@ -38,3 +38,11 @@ print(Thislist)
 thislist = ["Telephone", "Speaker", "Airphone"]
 for x in thislist:
     print(x)
+
+# While Loop
+Tontan = ["Math", "Computer Science", "Data Science"]
+i = 0
+while i < len(Tontan):
+    print(Tontan[i])
+    i = i + 1
+
