@@ -22,3 +22,17 @@ print(newlist)
 newlist = [x for x in range(10) if x < 5]
 
 print(newlist)
+
+# Expression
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+
+newlist = [x.upper() for x in fruits]
+
+print(newlist)
+
+# Set all values in the new list to 'hello':
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+
+newlist = ['hello' for x in fruits]
+
+print(newlist)
