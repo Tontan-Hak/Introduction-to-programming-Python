@@ -2,9 +2,8 @@
 
         Reminding: The key to success is staying consistent and beating procrastination.
 
-I am happy when I can improve myself just 1% everyday.
-
 # 📌 Self Study 📌
+I am happy when I can improve myself just 1% everyday.
 - [Mathematics for Computer Science MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
     * [Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
     * [Intro to Computational Thinking and Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
