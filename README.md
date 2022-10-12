@@ -2,9 +2,8 @@
 
         Reminding: The key to success is staying consistent and beating procrastination.
 
-I am happy when I can improve myself just 1% everyday.
-
 # 📌 Self Study 📌
+I am happy when I can improve myself just 1% everyday.
 - [Mathematics for Computer Science MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
     * [Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
     * [Intro to Computational Thinking and Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
@@ -18,10 +17,15 @@ I am happy when I can improve myself just 1% everyday.
   - [W3school](https://www.w3schools.com/)
   - [Codecademy](https://www.codecademy.com/catalog)
   - [Coursera](https://www.coursera.org/)
+  - [edx](https://www.edx.org/)
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
-    
+
+# Road Map
+* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
+
 # Read More
+- [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
 - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
 - [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
 - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/?fbclid=IwAR2MOM6ydxFT-T18_v2pvgMYqGqPBcG9_G9p1veCYIzBlYdo8_N9K7vfTeA)
