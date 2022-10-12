@@ -28,3 +28,13 @@ del(movie[1])
 print(movie)
 del(movie[1:4])
 print(movie)
+
+# Removed specific Index
+Thislist = ["apple", "Banan","cherry"]
+del Thislist[0]
+print(Thislist)
+
+# Loop Through a List
+thislist = ["Telephone", "Speaker", "Airphone"]
+for x in thislist:
+    print(x)
