@@ -35,6 +35,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
 - [What is a Computer Scientist? What Exactly Do CS Majors Do?](https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/)
 - [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
+- [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
 
 ## License 
 
