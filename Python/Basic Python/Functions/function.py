@@ -23,3 +23,29 @@ def my_function(*kids):
   print("The youngest child is " + kids[2])
 
 my_function("Emil", "Tobias", "Linus")
+
+# Default Parameter Value
+def my_function(country = "Cambodia"): 
+  print("I am from " + country)
+my_function("Phnom Penh")
+
+# Passing a List as an Argument
+def my_function(food):
+  for x in food:
+    print(x)
+
+fruits = ["apple", "banana", "cherry"]
+
+my_function(fruits)
+
+# Recursion
+def tri_recursion(k):
+  if(k > 0):
+    result = k + tri_recursion(k - 1)
+    print(result)
+  else:
+    result = 0
+  return result
+
+print("\n\nRecursion Example Results")
+tri_recursion(6)
