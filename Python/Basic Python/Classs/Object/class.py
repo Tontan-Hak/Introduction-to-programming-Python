@@ -61,3 +61,52 @@ class Person:
 
 p1 = Person("John", 36)
 p1.myfunc()
+
+# Set the age of p1 to 40:
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+
+p1 = Person("John", 36)
+
+p1.age = 40
+
+print(p1.age)
+
+# Delete the age property from the p1 object:
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+
+p1 = Person("John", 36)
+
+del p1.age
+
+print(p1.age)
+
+# Delete the p1 object:
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+
+p1 = Person("John", 36)
+
+del p1
+
+print(p1)
+
+# Pass statement
+class Person:
+  pass
