@@ -7,3 +7,23 @@ for name in names :
     else :
         counts[name] = counts[name] + 1
 print(counts)
+
+# 
+counts = dict()
+names = ['csev', 'cwen', 'csev', 'zqian', 'cwen']
+for name in names :
+    counts[name] = counts.get(name, 0) + 1
+print(counts)
+
+# Count words
+counts = dict()
+Line = input('Enter a line of text:')
+
+words = line.split()
+
+print('Words:', words)
+
+print('Counting...')
+for word in words:
+    counts[word] = counts.get(word,0) + 1
+print('Counts', counts)
