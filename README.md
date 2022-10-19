@@ -24,7 +24,7 @@ I am happy when I can improve myself just 1% everyday.
 # Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
-# Python For Everyone
+# Python For Everybody
 - [Lesson](https://www.py4e.com/lessons)
 - [Materials (Slide)](https://drive.google.com/drive/folders/1yEybWQnAGAvNh-CtD0U9lWpAmB2KcQKo?usp=sharing)
 - [Video Toturials](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
