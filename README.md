@@ -21,10 +21,8 @@ I am happy when I can improve myself just 1% everyday.
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-# Dr. Chuck Online
-[Programming For Everybody](https://online.dr-chuck.com/)
-### Internet History, Security, and Technology (IHTS)
-* [Lesson](https://ihts.pr4e.com/lessons)
+# Dr. Chuck Online [Programming For Everybody](https://online.dr-chuck.com/)
+* [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 ### Python For Everybody
 - [Lesson](https://www.py4e.com/lessons)
 ### Django for Everybody (DJ4E)
