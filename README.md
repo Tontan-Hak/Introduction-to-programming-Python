@@ -22,8 +22,8 @@ I am happy when I can improve myself just 1% everyday.
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
-* [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
-* [Python For Everybody](https://www.py4e.com/lessons)
+1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
+1. [Python For Everybody](https://www.py4e.com/lessons)
 * [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
 * [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 * [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
