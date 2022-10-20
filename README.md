@@ -24,24 +24,24 @@ I am happy when I can improve myself just 1% everyday.
 # Dr. Chuck Online
 - [Programming For Everybody](https://online.dr-chuck.com/)
 
-### 1.Internet History, Security, and Technology (IHTS)
+### Internet History, Security, and Technology (IHTS)
 * [Lesson](https://ihts.pr4e.com/lessons)
 
-# Python For Everybody
+### Python For Everybody
 - [Lesson](https://www.py4e.com/lessons)
 - [Materials (Slide)](https://drive.google.com/drive/folders/1yEybWQnAGAvNh-CtD0U9lWpAmB2KcQKo?usp=sharing)
 - [Video Toturials](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 
-# Django for Everybody (DJ4E)
+### Django for Everybody (DJ4E)
 - [Lesson](https://www.dj4e.com/lessons)
 
-# Web Applications for Everybody (WA4E)
+### Web Applications for Everybody (WA4E)
 - [Lesson](https://www.wa4e.com/lessons)
 
-# PostgreSQL for Everybody (PG4E)
+### PostgreSQL for Everybody (PG4E)
 - [Lesson](https://www.pg4e.com/lessons)
 
-# C Programming for Everybody (CC4E) 42
+### C Programming for Everybody (CC4E) 42
 - [Lesson](https://www.cc4e.com/lessons)
 
 # Watch more
