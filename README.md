@@ -27,8 +27,6 @@ I am happy when I can improve myself just 1% everyday.
 * [Lesson](https://ihts.pr4e.com/lessons)
 ### Python For Everybody
 - [Lesson](https://www.py4e.com/lessons)
-- [Materials (Slide)](https://drive.google.com/drive/folders/1yEybWQnAGAvNh-CtD0U9lWpAmB2KcQKo?usp=sharing)
-- [Video Toturials](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 ### Django for Everybody (DJ4E)
 - [Lesson](https://www.dj4e.com/lessons)
 ### Web Applications for Everybody (WA4E)
