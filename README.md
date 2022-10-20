@@ -30,7 +30,7 @@ I am happy when I can improve myself just 1% everyday.
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
 # Watch more
-- [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
+> [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 
 # Read More
 - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
