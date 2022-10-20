@@ -21,18 +21,13 @@ I am happy when I can improve myself just 1% everyday.
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-# Dr. Chuck Online [Programming For Everybody](https://online.dr-chuck.com/)
+# [Dr. Chuck Online](https://online.dr-chuck.com/)
 * [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
-### Python For Everybody
-- [Lesson](https://www.py4e.com/lessons)
-### Django for Everybody (DJ4E)
-- [Lesson](https://www.dj4e.com/lessons)
-### Web Applications for Everybody (WA4E)
-- [Lesson](https://www.wa4e.com/lessons)
-### PostgreSQL for Everybody (PG4E)
-- [Lesson](https://www.pg4e.com/lessons)
-### C Programming for Everybody (CC4E) 42
-- [Lesson](https://www.cc4e.com/lessons)
+* [Python For Everybody](https://www.py4e.com/lessons)
+* [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
+* [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
+* [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
+* [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
 # Watch more
 - [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
