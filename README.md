@@ -21,9 +21,6 @@ I am happy when I can improve myself just 1% everyday.
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-# Road Map
-* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
-
 # Dr. Chuck Online
 - [Programming For Everybody](https://online.dr-chuck.com/)
 
@@ -63,6 +60,9 @@ I am happy when I can improve myself just 1% everyday.
 - [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
 - [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
 - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
+
+# Road Map
+* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
 ## License 
 
