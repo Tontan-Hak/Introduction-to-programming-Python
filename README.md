@@ -21,16 +21,16 @@ I am happy when I can improve myself just 1% everyday.
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-# Road Map
-* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
-
-# Python For Everybody
-- [Lesson](https://www.py4e.com/lessons)
-- [Materials (Slide)](https://drive.google.com/drive/folders/1yEybWQnAGAvNh-CtD0U9lWpAmB2KcQKo?usp=sharing)
-- [Video Toturials](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
+# [Dr. Chuck Online](https://online.dr-chuck.com/)
+1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
+1. [Python For Everybody](https://www.py4e.com/lessons)
+1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
+1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
+1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
+1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
 # Watch more
-- [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
+> [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 
 # Read More
 - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
@@ -45,6 +45,9 @@ I am happy when I can improve myself just 1% everyday.
 - [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
 - [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
 - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
+
+# Road Map
+* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
 ## License 
 
