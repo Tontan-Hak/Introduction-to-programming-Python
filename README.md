@@ -22,7 +22,7 @@ I am happy when I can improve myself just 1% everyday.
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 # Dr. Chuck Online
-- [Programming For Everybody](https://online.dr-chuck.com/)
+[Programming For Everybody](https://online.dr-chuck.com/)
 
 ### Internet History, Security, and Technology (IHTS)
 * [Lesson](https://ihts.pr4e.com/lessons)
@@ -32,13 +32,10 @@ I am happy when I can improve myself just 1% everyday.
 - [Video Toturials](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 ### Django for Everybody (DJ4E)
 - [Lesson](https://www.dj4e.com/lessons)
-
 ### Web Applications for Everybody (WA4E)
 - [Lesson](https://www.wa4e.com/lessons)
-
 ### PostgreSQL for Everybody (PG4E)
 - [Lesson](https://www.pg4e.com/lessons)
-
 ### C Programming for Everybody (CC4E) 42
 - [Lesson](https://www.cc4e.com/lessons)
 
