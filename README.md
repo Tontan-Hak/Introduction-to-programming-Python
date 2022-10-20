@@ -2,7 +2,7 @@
 
         Reminding: The key to success is staying consistent and beating procrastination.
 
-# 📌 Self Study 📌
+# 📌 Self-Study 📌
 I am happy when I can improve myself just 1% everyday.
 - [Mathematics for Computer Science MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
     * [Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
@@ -28,6 +28,9 @@ I am happy when I can improve myself just 1% everyday.
 - [Lesson](https://www.py4e.com/lessons)
 - [Materials (Slide)](https://drive.google.com/drive/folders/1yEybWQnAGAvNh-CtD0U9lWpAmB2KcQKo?usp=sharing)
 - [Video Toturials](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
+
+# Watch more
+- [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 
 # Read More
 - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
