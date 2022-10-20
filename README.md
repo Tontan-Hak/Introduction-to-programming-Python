@@ -23,9 +23,8 @@ I am happy when I can improve myself just 1% everyday.
 
 # Dr. Chuck Online
 - [Programming For Everybody](https://online.dr-chuck.com/)
-
-# Internet History, Security, and Technology (IHTS)
-[Lesson](https://ihts.pr4e.com/lessons)
+Internet History, Security, and Technology (IHTS)
+* [Lesson](https://ihts.pr4e.com/lessons)
 
 # Python For Everybody
 - [Lesson](https://www.py4e.com/lessons)
