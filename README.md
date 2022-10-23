@@ -49,8 +49,10 @@ I am happy when I can improve myself just 1% everyday.
 # Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
-## License   [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+## License   
 This repo falls under the MIT license.
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <a href="https://github.com/Tontan-Hak/Learn_code/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Learn_code" alt="Stars Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Learn_code/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Learn_code" alt="Forks Badge"/></a>
