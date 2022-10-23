@@ -29,6 +29,12 @@ I am happy when I can improve myself just 1% everyday.
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
+# Computer Science
+1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
+1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+1. [INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
+
 # Watch more
 > [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 
