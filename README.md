@@ -53,6 +53,7 @@ I am happy when I can improve myself just 1% everyday.
 - [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
 - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
 - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
+- [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
 
 # Advice
 * [Paul Graham](http://paulgraham.com/)
