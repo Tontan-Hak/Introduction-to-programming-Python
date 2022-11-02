@@ -37,6 +37,7 @@ I am happy when I can improve myself just 1% everyday.
 1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 
 # Watch more
 > [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
