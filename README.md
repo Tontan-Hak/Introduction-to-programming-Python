@@ -29,6 +29,16 @@ I am happy when I can improve myself just 1% everyday.
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
+# Computer Science
+1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
+1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+1. [INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
+1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
+
 # Watch more
 > [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 
@@ -42,14 +52,21 @@ I am happy when I can improve myself just 1% everyday.
 - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
 - [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
 - [What is a Computer Scientist? What Exactly Do CS Majors Do?](https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/)
+- [Computer Science VS Information Technology – What's the Difference Between CS and IT?](https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/)
 - [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
 - [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
 - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
+- [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
+- [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
 
 # Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
-## License 
+# Find the best courses, wherever they exist
+- [Class Central](https://www.classcentral.com/)
+
+## License   
+This repo falls under the MIT license.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -61,3 +78,4 @@ I am happy when I can improve myself just 1% everyday.
 <a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
 
 --- 
+
