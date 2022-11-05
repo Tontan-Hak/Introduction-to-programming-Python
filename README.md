@@ -58,6 +58,7 @@ I am happy when I can improve myself just 1% everyday.
 - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
 - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
 - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
+- [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
 
 # Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
