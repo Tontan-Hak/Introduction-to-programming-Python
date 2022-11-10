@@ -65,7 +65,10 @@ I am happy when I can improve myself just 1% everyday.
 
 # Find the best courses, wherever they exist
 - [Class Central](https://www.classcentral.com/)
-
+## Inspired to do this repo by:
+- [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
+- [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
+- [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
 ## License   
 This repo falls under the MIT license.
 
