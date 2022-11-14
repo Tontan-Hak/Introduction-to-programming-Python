@@ -82,6 +82,7 @@ This repo falls under the MIT license.
 <a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
 
 --- 
-Quote
+**Quote**
+
 **There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** 
                                                 – Richard Feynman
