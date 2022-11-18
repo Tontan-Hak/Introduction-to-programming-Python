@@ -82,7 +82,16 @@ This repo falls under the MIT license.
 <a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
 
 --- 
-**Quote**
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
 
-**There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** 
-                                                – Richard Feynman
+<!--START_SECTION:activity-->
+	To provide a Self-taught education 
+<!--END_SECTION:activity-->
+</details>
+
+	💪 It should be one of our mission to improve everyday for the better
+	I am happy when I can improve myself just 1% everyday
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
