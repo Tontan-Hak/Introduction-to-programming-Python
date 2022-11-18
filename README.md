@@ -59,6 +59,7 @@ I am happy when I can improve myself just 1% everyday.
 - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
 - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
 - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
+- [How to Google like a Pro – 10 Tips for More Effective Googling](https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/?fbclid=IwAR1NqC_FxJukpPJUoowuQDXjpg_PYQVH0xoSGFHlbW-h3lDzCGma0mrKTOQ)
 
 # Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
