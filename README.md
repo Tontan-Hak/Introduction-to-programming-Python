@@ -70,7 +70,20 @@ I am happy when I can improve myself just 1% everyday.
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
 - [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
+## Miscellaneous
+Just a few sites that don't fit into any of the other areas above
 
+- [Awesome Math](https://github.com/Tontan-Hak/awesome-math)
+- [Lecture 1: Probability and Counting | Statistics 110 (Harvard)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
+- [TED's Official Public Speaking Course](https://www.youtube.com/playlist?list=PLJicmE8fK0EhSSdarWwp8GKSYUnPd1u8o)
+- [MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Do you know the 5 love languages? Here’s what they are — and how to use them](https://ideas.ted.com/whats-your-favorite-persons-love-language-heres-how-to-tell-and-how-to-use-it/?utm_source=facebook.com&utm_medium=social&utm_content=2022-11-20&utm_campaign=social&fbclid=IwAR25owRAEi8vp_JEKpDOuZQnSFZGNypAvS3Ud9eFW-Z0j6WS0IUP99rqMkk)
+- [Tim Urban: Inside the mind of a master procrastinator | TED](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
+- [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
