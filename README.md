@@ -41,7 +41,7 @@ I am happy when I can improve myself just 1% everyday.
 
 # Watch more
 > [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
-> [Can you get an MIT education for $2,000? | Scott Young | TEDxEastsidePrep](https://www.youtube.com/watch?v=piSLobJfZ3c)
+
 > [Can you get an MIT education for $2,000? | Scott Young | TEDxEastsidePrep](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
 # Read More
