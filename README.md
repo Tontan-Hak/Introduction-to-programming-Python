@@ -64,24 +64,34 @@ I am happy when I can improve myself just 1% everyday.
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
 - [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
-# Read More
-- [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
-- [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
-- [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
-- [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/?fbclid=IwAR2MOM6ydxFT-T18_v2pvgMYqGqPBcG9_G9p1veCYIzBlYdo8_N9K7vfTeA)
-- [What is Software Engineering?](https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/)
-- [What is a Full Stack Developer? Back End + Front End = Full Stack Engineer](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/)
-- [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
-- [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
-- [What is a Computer Scientist? What Exactly Do CS Majors Do?](https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/)
-- [Computer Science VS Information Technology – What's the Difference Between CS and IT?](https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/)
-- [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
-- [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
-- [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
-- [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
-- [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
-- [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
-- [How to Google like a Pro – 10 Tips for More Effective Googling](https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/?fbclid=IwAR1NqC_FxJukpPJUoowuQDXjpg_PYQVH0xoSGFHlbW-h3lDzCGma0mrKTOQ)
+## Read More article
+> <details>
+>  <summary> 💻 computer</summary>
+>  <br/>
+>    
+> <!--START_SECTION:activity-->
+> - [What is Programming?](https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/?fbclid=IwAR0x2QMuBjIPOQNgFgyZEi-j1uICj907DearYpAsF3upn0u_IeYNz57JkcU)
+> - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
+> - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
+> - [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
+> - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/?fbclid=IwAR2MOM6ydxFT-T18_v2pvgMYqGqPBcG9_G9p1veCYIzBlYdo8_N9K7vfTeA)
+> - [What is Software Engineering?](https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/)
+> - [What is a Full Stack Developer? Back End + Front End = Full Stack Engineer](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/)
+> - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
+> - [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
+> - [What is a Computer Scientist? What Exactly Do CS Majors Do?](https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/)
+> - [Computer Science VS Information Technology – What's the Difference Between CS and IT?](https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/)
+> - [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
+> - [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
+> - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
+> - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
+> - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
+> - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
+> - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
+> - [What is Computational Thinking?](https://digitalpromise.org/initiative/computational-thinking/computational-thinking-for-next-generation-science/what-is-computational-thinking/)
+> - [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners](https://www.youtube.com/watch?v=JTxsNm9IdYU)
+> <!--END_SECTION:activity-->
+> </details>
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
