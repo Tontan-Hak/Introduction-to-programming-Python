@@ -35,7 +35,9 @@ I am happy when I can improve myself just 1% everyday.
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
    * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+   * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
    * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
+   
 # Mathematics
 - [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
