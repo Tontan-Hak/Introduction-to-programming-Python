@@ -1,3 +1,5 @@
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
 # 🚀 Get started 
 
 The open-source curriculum for learning code and mathematics. Inspired by The [
