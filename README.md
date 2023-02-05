@@ -35,8 +35,8 @@ I am happy when I can improve myself just 1% everyday.
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
    * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
-- [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
-- [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+   * [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+   * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)   
 # Mathematics
 - [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
@@ -50,6 +50,7 @@ I am happy when I can improve myself just 1% everyday.
 - [18.03Fx Fourier](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
 - [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
 - [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
+- [18.031 System Functions and the Laplace Transform](https://ocw.mit.edu/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/)
 - [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
 - [Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)
 - [Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)
