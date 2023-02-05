@@ -40,8 +40,8 @@ I am happy when I can improve myself just 1% everyday.
 - [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [Introduction to linear algebra and ordinary differential equations](https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/)
 - [Introduction to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-- [Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
-- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 - [Introduction To Computational Thinking And Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 # 🔎 Website 
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
