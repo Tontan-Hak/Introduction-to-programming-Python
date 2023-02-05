@@ -5,16 +5,10 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 
 # 📌 Self-Study 📌
 I am happy when I can improve myself just 1% everyday.
-
-# 🔎 Website 
-  - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
-  - [W3school](https://www.w3schools.com/)
-  - [Codecademy](https://www.codecademy.com/catalog)
-  - [Coursera](https://www.coursera.org/)
-  - [edx](https://www.edx.org/)
-  - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
-  - [MIT OpenCourseWare](https://ocw.mit.edu/)
-
+  - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+  - []()
+  - []()
+  - []()
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
@@ -42,11 +36,28 @@ I am happy when I can improve myself just 1% everyday.
     * [Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
     * [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
     * [Introduction To Computational Thinking And Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+# 🔎 Website 
+  - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
+  - [W3school](https://www.w3schools.com/)
+  - [Codecademy](https://www.codecademy.com/catalog)
+  - [Coursera](https://www.coursera.org/)
+  - [edx](https://www.edx.org/)
+  - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
+  - [MIT OpenCourseWare](https://ocw.mit.edu/)
 # Watch more
 
 - [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 - [Can you get an MIT education for $2,000? | Scott Young | TEDxEastsidePrep](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
+# Road Map
+* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
+
+# Find the best courses, wherever they exist
+- [Class Central](https://www.classcentral.com/)
+## Inspired to do this repo by:
+- [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
+- [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
+- [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
 # Read More
 - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
 - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
@@ -65,16 +76,6 @@ I am happy when I can improve myself just 1% everyday.
 - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
 - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
 - [How to Google like a Pro – 10 Tips for More Effective Googling](https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/?fbclid=IwAR1NqC_FxJukpPJUoowuQDXjpg_PYQVH0xoSGFHlbW-h3lDzCGma0mrKTOQ)
-
-# Road Map
-* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
-
-# Find the best courses, wherever they exist
-- [Class Central](https://www.classcentral.com/)
-## Inspired to do this repo by:
-- [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
-- [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
-- [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
