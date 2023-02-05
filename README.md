@@ -20,7 +20,7 @@ I am happy when I can improve myself just 1% everyday.
 1. [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
 1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
-1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://free-compsci-degree-imc.notion.site/The-Open-Source-Computer-Science-Degree-b799dc75720c48fcb602e58c0c103155)
