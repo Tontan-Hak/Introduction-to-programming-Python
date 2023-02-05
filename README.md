@@ -29,6 +29,11 @@ I am happy when I can improve myself just 1% everyday.
 1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://free-compsci-degree-imc.notion.site/The-Open-Source-Computer-Science-Degree-b799dc75720c48fcb602e58c0c103155)
+# Course
+   * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+   * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+   * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 # Mathematics
 - [Mathematics for Computer Science MIT](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
     * [Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
