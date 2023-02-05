@@ -39,6 +39,7 @@ I am happy when I can improve myself just 1% everyday.
    * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
    * [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)  
    * [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
+   * [How To Speak](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/)
 # Mathematics
 - [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
@@ -52,6 +53,8 @@ I am happy when I can improve myself just 1% everyday.
 - [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
 - [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
 - [18.031 System Functions and the Laplace Transform](https://ocw.mit.edu/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/)
+- [Introduction To Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
+- []()
 - [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
 - [Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)
 - [Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)
