@@ -67,6 +67,9 @@ I am happy when I can improve myself just 1% everyday.
 - [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
 # Importance 
 - [Complete education in computer science](https://github.com/ossu/computer-science)
+- [Complete education in mathematics](https://github.com/ossu/math)
+- [Data Science](https://github.com/ossu/data-science)
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
 # 🔎 Website 
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
