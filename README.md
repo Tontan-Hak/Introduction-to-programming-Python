@@ -10,13 +10,6 @@ I am happy when I can improve myself just 1% everyday.
   - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   - [ODIN PROJECT](https://www.theodinproject.com/)
   - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-# [Dr. Chuck Online](https://online.dr-chuck.com/)
-1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
-1. [Python For Everybody](https://www.py4e.com/lessons)
-1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
-1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
-1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
-1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
 # Computer Science
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
@@ -29,6 +22,13 @@ I am happy when I can improve myself just 1% everyday.
 1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://free-compsci-degree-imc.notion.site/The-Open-Source-Computer-Science-Degree-b799dc75720c48fcb602e58c0c103155)
+# [Dr. Chuck Online](https://online.dr-chuck.com/)
+1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
+1. [Python For Everybody](https://www.py4e.com/lessons)
+1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
+1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
+1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
+1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 # Course
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
