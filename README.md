@@ -6,9 +6,10 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 # 📌 Self-Study 📌
 I am happy when I can improve myself just 1% everyday.
   - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-  - []()
-  - []()
-  - []()
+  - [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+  - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+  - [ODIN PROJECT](https://www.theodinproject.com/)
+  - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
