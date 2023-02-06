@@ -128,6 +128,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Tim Urban: Inside the mind of a master procrastinator | TED](https://www.youtube.com/watch?v=arj7oStGLkU)
 - [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
 - [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
+- [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 # Watch more
 
 - [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
