@@ -43,6 +43,7 @@ I am happy when I can improve myself just 1% everyday.
    * [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
    * [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
    * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+   * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 # Mathematics
 - [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
