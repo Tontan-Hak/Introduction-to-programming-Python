@@ -41,6 +41,13 @@ I am happy when I can improve myself just 1% everyday.
    * [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
    * [How To Speak](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/)
    * [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
+   * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)
+   * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)
+   * [Principles of Computing (Part 1)](https://www.coursera.org/learn/principles-of-computing-1)
+   * [Principles of Computing (Part 2)](https://www.coursera.org/learn/principles-of-computing-2)
+   * [Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1)
+   * [Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2)
+   * [The Fundamentals of Computing Capstone Exam](https://www.coursera.org/learn/fundamentals-of-computing-capstone)
 # Mathematics
 - [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
