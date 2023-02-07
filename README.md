@@ -40,6 +40,7 @@ I am happy when I can improve myself just 1% everyday.
    * [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)  
    * [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
    * [How To Speak](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/)
+   * [Introduction To Computer Science And Programming](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
    * [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
    * [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
    * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
@@ -73,6 +74,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 - [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
+- [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 # Importance 
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
