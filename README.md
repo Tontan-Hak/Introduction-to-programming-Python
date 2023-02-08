@@ -7,6 +7,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 
 # 📌 Self-Study 📌
 I am happy when I can improve myself just 1% everyday.
+  - [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
   - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
   - [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
   - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
