@@ -26,7 +26,7 @@ I am happy when I can improve myself just 1% everyday.
 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 
-[Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://free-compsci-degree-imc.notion.site/The-Open-Source-Computer-Science-Degree-b799dc75720c48fcb602e58c0c103155)
+[Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://www.notion.so/Computer-Science-Degree-59d642ac91ce451985ae17a15b562cef)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
