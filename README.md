@@ -6,17 +6,17 @@
 The open-source curriculum for learning code and mathematics. Inspired by The [
 Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the self-taught education. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
 
-# 📌 Self-Study 📌
+# ⏳ Self-Study 
 I am happy when I can improve myself just 1% everyday.
   - [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
-  - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+  - [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
   - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
   - [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
   - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   - [ODIN PROJECT](https://www.theodinproject.com/)
   - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
-# Computer Science
+# 💻 Computer Science
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
 1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
@@ -34,7 +34,7 @@ I am happy when I can improve myself just 1% everyday.
 1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
-# Course
+# 🚩 Course
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
    * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
@@ -48,7 +48,8 @@ I am happy when I can improve myself just 1% everyday.
    * [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
    * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
    * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
-# Mathematics
+   * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+# 📄 Mathematics
 - [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
 - [18.01.2x Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
