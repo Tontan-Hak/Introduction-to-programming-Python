@@ -24,7 +24,7 @@ I am happy when I can improve myself just 1% everyday.
 1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
+1. [Open Source Society University Computer Science Degree](https://github.com/ossu)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://www.notion.so/Computer-Science-Degree-59d642ac91ce451985ae17a15b562cef)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
@@ -118,6 +118,7 @@ I am happy when I can improve myself just 1% everyday.
 > - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
 > - [What is Computational Thinking?](https://digitalpromise.org/initiative/computational-thinking/computational-thinking-for-next-generation-science/what-is-computational-thinking/)
 > - [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners](https://www.youtube.com/watch?v=JTxsNm9IdYU)
+> - [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 > <!--END_SECTION:activity-->
 > </details>
 ## Miscellaneous
