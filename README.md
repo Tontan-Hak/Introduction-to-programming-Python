@@ -28,9 +28,9 @@ I am happy when I can improve myself just 1% everyday.
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Computer-Science-Degree-59d642ac91ce451985ae17a15b562cef)
 ### MIT challenge in computer science
-- []()
-- []()
-- []()
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/search/)
+- [Free Notion Template to track your progress in MIT Challenge]()
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
