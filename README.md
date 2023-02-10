@@ -30,7 +30,7 @@ I am happy when I can improve myself just 1% everyday.
 ### MIT challenge in computer science
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/)
-- [Free Notion Template to track your progress in MIT Challenge]()
+- [Free Notion Template to track your progress in MIT Challenge](https://www.notion.so/MIT-Challenge-Computer-Science-Degree-2855ebe52bf345a5ba4ffe87951268d9)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
