@@ -83,6 +83,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 - [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
 - [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+- [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
 # Importance 
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
