@@ -84,13 +84,13 @@ I am happy when I can improve myself just 1% everyday.
 - [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
 - [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 - [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
+- [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
+- [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
 # Importance 
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
-- [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
-- [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
 # 🔎 Website 
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
