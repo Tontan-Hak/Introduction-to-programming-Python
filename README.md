@@ -66,6 +66,7 @@ I am happy when I can improve myself just 1% everyday.
 - [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
 - [18.031 System Functions and the Laplace Transform](https://ocw.mit.edu/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/)
 - [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 - [Introduction To Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 - [Highlights Of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
 - [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
