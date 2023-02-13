@@ -1,6 +1,6 @@
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
 |:------------:|
-# 🚀 Get started 
+# 🎓 Get started 
 ![](https://komarev.com/ghpvc/?username=LearningHowToCode&color=brightgreen&label=VISITORS)
 
 The open-source curriculum for learning code and mathematics. Inspired by The [
@@ -86,7 +86,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
 - [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
 - [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
-# Importance 
+# 🚀 Importance 
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
