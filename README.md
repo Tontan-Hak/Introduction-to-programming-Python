@@ -38,6 +38,8 @@ I am happy when I can improve myself just 1% everyday.
 1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
+2. Computer Architecture for Everybody
+3. Java Enterprise Application Development for Everybody
 # 🚩 Course
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
