@@ -24,7 +24,8 @@ I am happy when I can improve myself just 1% everyday.
 1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-1. [Open Source Society University Computer Science Degree](https://github.com/ossu)
+2. [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
+3. [Open Source Society University Computer Science Degree](https://github.com/ossu)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Computer-Science-Degree-59d642ac91ce451985ae17a15b562cef)
 ### MIT challenge in computer science
