@@ -33,7 +33,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Free Notion Template to track your progress in MIT Challenge](https://www.notion.so/MIT-Challenge-Computer-Science-Degree-2855ebe52bf345a5ba4ffe87951268d9)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
-1. [Python For Everybody](https://www.py4e.com/lessons)
+1. [Python For Everybody (PY4E)](https://www.py4e.com/lessons)
 1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
 1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
