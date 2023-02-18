@@ -27,7 +27,7 @@ I am happy when I can improve myself just 1% everyday.
 2. [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
 3. [Open Source Society University Computer Science Degree](https://github.com/ossu)
 
-[Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Computer-Science-Degree-59d642ac91ce451985ae17a15b562cef)
+[Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Free-Template-Computer-Science-Degree-d6d8bc6e7fc44ddd86e4432c0b04ba2a)
 ### MIT challenge in computer science
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/)
