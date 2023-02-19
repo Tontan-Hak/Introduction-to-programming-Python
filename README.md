@@ -19,7 +19,7 @@ I am happy when I can improve myself just 1% everyday.
 
 <div align="right">
 	
-[Go to the top](#Get-started)
+[Go to the top](#Get started)
 	
 </div>
 
