@@ -45,6 +45,15 @@ I am happy when I can improve myself just 1% everyday.
 3. [Open Source Society University Computer Science Degree](https://github.com/ossu)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Free-Template-Computer-Science-Degree-d6d8bc6e7fc44ddd86e4432c0b04ba2a)
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 ### MIT challenge in computer science
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/)
@@ -58,7 +67,17 @@ I am happy when I can improve myself just 1% everyday.
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 2. Computer Architecture for Everybody
 3. Java Enterprise Application Development for Everybody
-# 🚩 Course
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Course
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
    * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
@@ -73,7 +92,17 @@ I am happy when I can improve myself just 1% everyday.
    * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
    * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
    * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-# 📄 Mathematics
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Mathematics
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
 - [18.01.2x Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
 - [18.01.3x Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
@@ -107,12 +136,22 @@ I am happy when I can improve myself just 1% everyday.
 - [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
 - [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
 - [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
-# 🚀 Importance 
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Importance 
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
-# 🔎 Website 
+# Website 
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
   - [Codecademy](https://www.codecademy.com/catalog)
@@ -120,6 +159,16 @@ I am happy when I can improve myself just 1% everyday.
   - [edx](https://www.edx.org/)
   - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
   - [MIT OpenCourseWare](https://ocw.mit.edu/)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 # Read More article
 > <details>
 >  <summary> 💻 computer</summary>
@@ -164,6 +213,16 @@ Just a few sites that don't fit into any of the other areas above
 - [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
 - [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
 - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 # Watch more
 
 - [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
@@ -178,6 +237,16 @@ Just a few sites that don't fit into any of the other areas above
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
 - [Open Source Society University](https://github.com/ossu)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
