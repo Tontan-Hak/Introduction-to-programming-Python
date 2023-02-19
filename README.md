@@ -15,7 +15,15 @@ I am happy when I can improve myself just 1% everyday.
   - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
   - [ODIN PROJECT](https://www.theodinproject.com/)
+##
 
+<div align="right">
+	
+[Go to the top](#Get-started)
+	
+</div>
+
+---
 # 💻 Computer Science
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
