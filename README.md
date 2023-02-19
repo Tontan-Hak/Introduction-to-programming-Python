@@ -9,13 +9,13 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 # Contents
 
 - [About](#About)
-- [Self-Study](#⏳-Self-Study)
+- [Self-Study](#Self-Study)
 - [Computer-Science](#Computer-Science)
 - [Course](#Course)
 - [Mathematics](#Mathematics)
 - [Importance](#Importance)
 
-# ⏳ Self-Study 
+# Self-Study 
 I am happy when I can improve myself just 1% everyday.
   - [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
   - [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
