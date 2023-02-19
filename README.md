@@ -16,6 +16,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 - [Importance](#Importance)
 - [Website](#Website)
 - [Read More Article](#Read-More-Article)
+- [Miscellaneous](#Miscellaneous)
 # About
 
 This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Computer Science, Mathematics, Data Science, minus general education.
