@@ -14,7 +14,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 - [Course](#Course)
 - [Mathematics](#Mathematics)
 - [Importance](#Importance)
-- [Website](#Website)
+- [Open online source](#Open-online-source)
 - [Read More Article](#Read-More-Article)
 - [Miscellaneous](#Miscellaneous)
 # About
@@ -76,6 +76,12 @@ I am happy when I can improve myself just 1% everyday.
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/)
 - [Free Notion Template to track your progress in MIT Challenge](https://www.notion.so/MIT-Challenge-Computer-Science-Degree-2855ebe52bf345a5ba4ffe87951268d9)
+
+### Software Engineer
+- [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
+- [Software-Engineering-CSE307-2020 (Github](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
+- [Book](https://drive.google.com/file/d/1cgQzJxxX0ZgUkiyilRMv8EChDt-qR10D/view?usp=share_link)
+- [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody (PY4E)](https://www.py4e.com/lessons)
@@ -169,7 +175,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
-# Website 
+# Open online source 
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
   - [Codecademy](https://www.codecademy.com/catalog)
