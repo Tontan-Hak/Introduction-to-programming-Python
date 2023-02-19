@@ -10,7 +10,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 
 - [About](#About)
 - [Self-Study](#Self-Study)
-- [Computer-Science](#Computer-Science)
+- [Computer Science](#Computer-Science)
 - [Course](#Course)
 - [Mathematics](#Mathematics)
 - [Importance](#Importance)
