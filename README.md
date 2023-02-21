@@ -80,7 +80,7 @@ I am happy when I can improve myself just 1% everyday.
 
 ### Software Engineer
 - [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
-- [Software-Engineering-CSE307-2020 (Github](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
+- [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
 - [Book](https://drive.google.com/file/d/1cgQzJxxX0ZgUkiyilRMv8EChDt-qR10D/view?usp=share_link)
 - [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
