@@ -34,7 +34,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 </div>
 
 ---
-# How I learned to code (Self-Study)
+# How I start learning code (Self-Study)
 I am happy when I can improve myself just 1% everyday.
   - [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
   - [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
