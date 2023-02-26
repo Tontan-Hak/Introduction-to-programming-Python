@@ -62,6 +62,7 @@ I am happy when I can improve myself just 1% everyday.
 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 2. [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
 3. [Open Source Society University Computer Science Degree](https://github.com/ossu)
+1. [OSSU CS timeline](https://docs.google.com/spreadsheets/d/1VrIrtKGEAohCUygF-Y4UNsU5v2mWivNF6VvnWyTayRQ/edit?usp=sharing)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Free-Template-Computer-Science-Degree-d6d8bc6e7fc44ddd86e4432c0b04ba2a)
 ##
