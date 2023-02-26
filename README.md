@@ -15,7 +15,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 	- [Computer Science](#Computer-Science)
 	- [Course](#Course)
 	- [Mathematics](#Mathematics)
-- [Importance](#Importance)
+- [Open Source Education](#Open-Source-Education)
 - [Open online source](#Open-online-source)
 - [Read More Article](#Read-More-Article)
 - [Miscellaneous](#Miscellaneous)
@@ -174,7 +174,7 @@ I am happy when I can improve myself just 1% everyday.
 </div>
 
 ---
-# Importance 
+# Open Source Education
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
