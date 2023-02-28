@@ -16,7 +16,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 	- [Course recommendation](#Course-recommendation)
 	- [Mathematics](#Mathematics)
 - [Open Source Education](#Open-Source-Education)
-- [Website and Open Learning](#Website-and-Open Learning)
+- [Website and Open Learning](#Website-and-Open-Learning)
 - [Read More Article](#Read-More-Article)
 - [Miscellaneous](#Miscellaneous)
 # About
