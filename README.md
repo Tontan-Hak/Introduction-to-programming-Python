@@ -16,7 +16,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 	- [Course recommendation](#Course-recommendation)
 	- [Mathematics](#Mathematics)
 - [Open Source Education](#Open-Source-Education)
-- [Open online source](#Open-online-source)
+- [Website and Open Learning](#Website-and-Open Learning)
 - [Read More Article](#Read-More-Article)
 - [Miscellaneous](#Miscellaneous)
 # About
@@ -179,7 +179,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
-# Open online source 
+#  Website and Open Learning
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
   - [Codecademy](https://www.codecademy.com/catalog)
