@@ -13,7 +13,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 - [Main Curriculum]()
 	- [Self-Study](#Self-Study)
 	- [Computer Science](#Computer-Science)
-	- [Course](#Course)
+	- [Course recommendation](#Course-recommendation)
 	- [Mathematics](#Mathematics)
 - [Open Source Education](#Open-Source-Education)
 - [Open online source](#Open-online-source)
@@ -105,7 +105,7 @@ I am happy when I can improve myself just 1% everyday.
 </div>
 
 ---
-# Course
+# Course recommendation 
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
    * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
