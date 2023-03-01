@@ -57,14 +57,7 @@ I am happy when I can improve myself just 1% everyday.
 # Computer Science
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
-1. [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
-1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-1. [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
-1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
-1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-2. [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
-3. [Open Source Society University Computer Science Degree](https://github.com/ossu)
+1. [Open Source Society University Computer Science Degree](https://github.com/ossu)
 1. [OSSU CS timeline](https://docs.google.com/spreadsheets/d/1VrIrtKGEAohCUygF-Y4UNsU5v2mWivNF6VvnWyTayRQ/edit?usp=sharing)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Free-Template-Computer-Science-Degree-d6d8bc6e7fc44ddd86e4432c0b04ba2a)
@@ -107,6 +100,13 @@ I am happy when I can improve myself just 1% everyday.
 
 ---
 # Course recommendation 
+   * [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
+   * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+   * [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
+   * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+   * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+   * [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
    * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
