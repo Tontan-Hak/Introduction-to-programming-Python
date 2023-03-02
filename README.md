@@ -45,6 +45,7 @@ I am happy when I can improve myself just 1% everyday.
   1. [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
   1. [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
   1. [ODIN PROJECT](https://www.theodinproject.com/)
+  1. [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
   1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   1. [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
   
