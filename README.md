@@ -137,6 +137,14 @@ I am happy when I can improve myself just 1% everyday.
 </div>
 
 ---
+# Math prerequisites
+* [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
+* [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
+* [Algebra](https://www.khanacademy.org/math/algebra-home)
+* [Geometry](https://www.khanacademy.org/math/geometry-home)
+* [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+* [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+* [Calculus 2](https://www.khanacademy.org/math/calculus-2)
 # Mathematics
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
 - [18.01.2x Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
