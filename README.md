@@ -93,8 +93,8 @@ I am happy when I can improve myself just 1% everyday.
 1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
-2. Computer Architecture for Everybody
-3. Java Enterprise Application Development for Everybody
+1. Computer Architecture for Everybody
+1. Java Enterprise Application Development for Everybody
 
 ##
 
