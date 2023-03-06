@@ -145,6 +145,7 @@ I am happy when I can improve myself just 1% everyday.
 * [Pre-calculus](https://www.khanacademy.org/math/precalculus)
 * [Calculus 1](https://www.khanacademy.org/math/calculus-1)
 * [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+* [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
 
 ##
 
