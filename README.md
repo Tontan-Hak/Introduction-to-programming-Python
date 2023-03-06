@@ -81,9 +81,6 @@ I am happy when I can improve myself just 1% everyday.
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/)
 - [Free Notion Template to track your progress in MIT Challenge](https://www.notion.so/MIT-Challenge-Computer-Science-Degree-2855ebe52bf345a5ba4ffe87951268d9)
 
-### The Open University
-- [Openlearn](https://www.open.edu/openlearn/free-courses/full-catalogue)
-- [How I get it](https://www.facebook.com/photo/?fbid=176503291796141&set=a.146193098160494)
 ### Software Engineer
 - [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
 - [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
@@ -208,6 +205,10 @@ I am happy when I can improve myself just 1% everyday.
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
+
+### The Open University
+- [Openlearn](https://www.open.edu/openlearn/free-courses/full-catalogue)
+- [How I get it](https://www.facebook.com/photo/?fbid=176503291796141&set=a.146193098160494)
 #  Website and Open Learning
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
