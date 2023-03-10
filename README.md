@@ -272,6 +272,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
 - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 - [LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)
+- [Create a Portfolio Website Using HTML, CSS, & JavaScript](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/)
 
 ##
 
