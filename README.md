@@ -59,6 +59,16 @@ I am happy when I can improve myself just 1% everyday.
 - Don't be a monkey coder
 - Use AI to your advantage
 - Learn to communicate
+##### The way to learn to code
+- Step 1: Choose your coding area
+- Step 2: Do an online bootcamp
+- Step 3: 2-3 impressive portfolio project
+   * a range of skills
+   * Create read update delete
+       1. User authentication
+       1. Database
+       1. API
+- Step 4: Start applying 
 ##
 
 <div align="right">
