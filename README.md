@@ -52,6 +52,13 @@ I am happy when I can improve myself just 1% everyday.
   1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
   1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
   
+#### Advice 
+- Pich a focus
+- Learning how to learn
+- Be practical 
+- Don't be a monkey coder
+- Use AI to your advantage
+- Learn to communicate
 ##
 
 <div align="right">
