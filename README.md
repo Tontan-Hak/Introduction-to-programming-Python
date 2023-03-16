@@ -291,6 +291,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 - [LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)
 - [Create a Portfolio Website Using HTML, CSS, & JavaScript](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/)
+- [Data Science Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=sD468LfeVdc)
 
 ##
 
