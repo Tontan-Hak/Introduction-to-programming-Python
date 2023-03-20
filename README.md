@@ -69,6 +69,8 @@ I am happy when I can improve myself just 1% everyday.
        1. Database
        1. API
 - Step 4: Start applying 
+
+- [X] [My Unconventional Coding Story | Self-Taught](https://www.youtube.com/watch?v=eFJGyT3C-Y0)
 ##
 
 <div align="right">
