@@ -221,6 +221,7 @@ I am happy when I can improve myself just 1% everyday.
 
 ---
 # Open Source Education
+- [GCF Global (Creating Opportunities for a Better life](https://edu.gcfglobal.org/en/)
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
