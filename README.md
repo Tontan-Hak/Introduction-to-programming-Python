@@ -147,6 +147,7 @@ I am happy when I can improve myself just 1% everyday.
    * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
    * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
    * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+   * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
 
 ##
 
