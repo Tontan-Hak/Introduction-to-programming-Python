@@ -53,27 +53,19 @@ I am happy when I can improve myself just 1% everyday.
   - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
   
 #### Advice 
-- Learn program fundamental (Ex:How the program work, Python, ...)
-- Learn 
+- Step 1: Learn program fundamental (Ex:How the program work, Python, ...)
+- Step 2 
    1. Backend and /or Frontend development - EG, Django or react
    1. Break into big tech: Learn DSA
    1. Learn data science/AI/ML
    1. Fullstack online bootcamp
-- Be practical 
-- Don't be a monkey coder
-- Use AI to your advantage
-- Learn to communicate
-##### The way to learn to code
-- Step 1: Choose your coding area
-- Step 2: Do an online bootcamp
 - Step 3: 2-3 impressive portfolio project
    * a range of skills
    * Create read update delete
        1. User authentication
        1. Database
        1. API
-- Step 4: Start applying 
-
+- Step 4: study for interview and Start applying 
 - [X] [My Unconventional Coding Story | Self-Taught](https://www.youtube.com/watch?v=eFJGyT3C-Y0)
 ##
 
