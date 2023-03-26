@@ -53,8 +53,12 @@ I am happy when I can improve myself just 1% everyday.
   - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
   
 #### Advice 
-- Pich a focus
-- Learning how to learn
+- Learn program fundamental (Ex:How the program work, Python, ...)
+- Learn 
+   1. Backend and /or Frontend development - EG, Django or react
+   1. Break into big tech: Learn DSA
+   1. Learn data science/AI/ML
+   1. Fullstack online bootcamp
 - Be practical 
 - Don't be a monkey coder
 - Use AI to your advantage
