@@ -53,7 +53,7 @@ I am happy when I can improve myself just 1% everyday.
   - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
   
 #### Advice 
-- Step 1: Learn program fundamental (Ex:How the program work, Python, ...)
+- Step 1: Learn program fundamental (Ex:How the computer work, Python, ...)
 - Step 2 
    1. Backend and /or Frontend development - EG, Django or react
    1. Break into big tech: Learn DSA
