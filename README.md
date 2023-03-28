@@ -56,8 +56,8 @@ I am happy when I can improve myself just 1% everyday.
 - Step 1: Learn program fundamental (Ex:How the computer work, Python, ...)
 - Step 2 
    1. Backend and /or Frontend development - EG, Django or react
-   1. Break into big tech: Learn DSA
-   1. Learn data science/AI/ML
+   1. Break into big tech: Learn Data Structure Algorithm
+   1. Learn Data science/AI/Machine Learning
    1. Fullstack online bootcamp
 - Step 3: 2-3 impressive portfolio project
    * a range of skills
