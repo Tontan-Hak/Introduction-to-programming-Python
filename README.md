@@ -318,7 +318,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Can you get an MIT education for $2,000? | Scott Young | TEDxEastsidePrep](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
 # Road Map
-* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
+* [roadmap.sh](https://roadmap.sh/roadmaps)
 
 # Find the best courses, wherever they exist
 - [Class Central](https://www.classcentral.com/)
