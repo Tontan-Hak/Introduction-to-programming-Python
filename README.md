@@ -301,6 +301,7 @@ Just a few sites that don't fit into any of the other areas above
 - [LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)
 - [Create a Portfolio Website Using HTML, CSS, & JavaScript](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/)
 - [Data Science Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=sD468LfeVdc)
+- [Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 
 ##
 
