@@ -315,6 +315,7 @@ Just a few sites that don't fit into any of the other areas above
 ---
 # Watch more
 
+
 - [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 - [Can you get an MIT education for $2,000? | Scott Young | TEDxEastsidePrep](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
