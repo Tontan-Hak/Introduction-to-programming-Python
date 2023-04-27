@@ -335,6 +335,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
 - [Open Source Society University](https://github.com/ossu)
+- [Self Study Projects by DIEGO VERA](https://www.diegovera.org/projects)
 
 ##
 
