@@ -67,7 +67,7 @@ I am happy when I can improve myself just 1% everyday.
        1. API
 - Step 4: study for interview and Start applying 
 - [X] [My Unconventional Coding Story | Self-Taught](https://www.youtube.com/watch?v=eFJGyT3C-Y0)
-- Start to Code With
+- Start to Code With the basic understand on: 
 	* Variables 
 	* Loops 
 	* Control flow
