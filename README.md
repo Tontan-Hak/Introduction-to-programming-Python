@@ -66,7 +66,6 @@ I am happy when I can improve myself just 1% everyday.
        1. Database
        1. API
 - Step 4: study for interview and Start applying 
-- [X] [My Unconventional Coding Story | Self-Taught](https://www.youtube.com/watch?v=eFJGyT3C-Y0)
 
 #### Learn basic code
 - Start to Code With the basic understand on: 
@@ -312,7 +311,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Create a Portfolio Website Using HTML, CSS, & JavaScript](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/)
 - [Data Science Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=sD468LfeVdc)
 - [Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
-
+- [X] [My Unconventional Coding Story | Self-Taught](https://www.youtube.com/watch?v=eFJGyT3C-Y0)
 ##
 
 <div align="right">
