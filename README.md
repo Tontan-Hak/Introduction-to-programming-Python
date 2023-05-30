@@ -43,7 +43,7 @@ I am happy when I can improve myself just 1% everyday.
   - [X] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
   - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
   - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
-  - [ ] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
+  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
   - [ ] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
   - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
   - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
