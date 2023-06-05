@@ -160,6 +160,7 @@ I am happy when I can improve myself just 1% everyday.
    * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
    * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
    * [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+   * [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
    * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
    * [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
