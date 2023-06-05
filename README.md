@@ -47,7 +47,7 @@ I am happy when I can improve myself just 1% everyday.
   - [X] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
   - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
   - [X] [ODIN PROJECT](https://www.theodinproject.com/)
-  - [X] [Google Project Management:](https://www.coursera.org/professional-certificates/google-project-management)
+  - [ ] [Google Project Management:](https://www.coursera.org/professional-certificates/google-project-management)
   - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   - [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
   - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
@@ -159,6 +159,7 @@ I am happy when I can improve myself just 1% everyday.
    * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
    * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
    * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+   * [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
    * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
    * [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
