@@ -1,5 +1,3 @@
-| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
-|:------------:|
 # 🎓 Getting started on Computer
 ![](https://komarev.com/ghpvc/?username=LearningHowToCode&color=brightgreen&label=VISITORS)
 
@@ -380,4 +378,5 @@ Just a few sites that don't fit into any of the other areas above
 <a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
 
 --- 
-
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
