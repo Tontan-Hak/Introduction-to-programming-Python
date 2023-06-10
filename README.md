@@ -74,11 +74,11 @@ I am happy when I can improve myself just 1% everyday.
 	* Data types
 	* Functions
 #### strategy 
-		- Solve the problem conceptually 
-		- Apply that conceptual understanding into code
-		- Looking up the answer 
-		- Understand the solution 
-		- Learn what is the parttern
+  - Solve the problem conceptually 
+  - Apply that conceptual understanding into code
+  - Looking up the answer 
+  - Understand the solution 
+  - Learn what is the parttern
 	
 ##
 
