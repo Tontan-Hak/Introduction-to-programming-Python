@@ -163,6 +163,7 @@ I am happy when I can improve myself just 1% everyday.
    * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
    * [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
    * [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
+   * [Learning Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
 
 ##
 
