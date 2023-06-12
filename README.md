@@ -162,6 +162,7 @@ I am happy when I can improve myself just 1% everyday.
    * [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
    * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
    * [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+   * [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
 
 ##
 
