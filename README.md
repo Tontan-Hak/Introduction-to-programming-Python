@@ -50,6 +50,7 @@ I am happy when I can improve myself just 1% everyday.
   - [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
   - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
   - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+  - [ ] [CS50's Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
   
 #### Advice 
 - Step 1: Learn program fundamental (Ex:How the computer work, how software work, Python, ...)
