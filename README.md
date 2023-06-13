@@ -104,6 +104,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Learning Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
 - [Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
 - [Computer Science for Game Development](https://www.edx.org/professional-certificate/harvardx-computer-science-for-game-development)
+- [CS50's Introduction to Databases with SQL]()
 ##
 
 <div align="right">
