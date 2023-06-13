@@ -100,7 +100,9 @@ I am happy when I can improve myself just 1% everyday.
 
 #### Start here 
 - [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
-- []()
+- [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
+- [Learning Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
+- 
 ##
 
 <div align="right">
@@ -166,8 +168,6 @@ I am happy when I can improve myself just 1% everyday.
    * [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
    * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
    * [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-   * [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
-   * [Learning Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
 
 ##
 
