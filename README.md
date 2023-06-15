@@ -36,9 +36,9 @@ In regards to the duration of this project, by my calculations, adding up the es
 ---
 # How I start learning code (Self-Study)
 I am happy when I can improve myself just 1% everyday.
+  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
   - [X] [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
   - [x] [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
-  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
   - [X] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
   - [X] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
   - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
