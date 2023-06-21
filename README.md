@@ -60,7 +60,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 </details>
 
 <details>
-  <summary>⏳ Roadmap to get job </summary>
+  <summary>🚩 Roadmap to get job </summary>
   <br/>
 
 <!--START_SECTION:activity-->
