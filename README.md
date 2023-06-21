@@ -55,7 +55,7 @@ I am happy when I can improve myself just 1% everyday.
   
 #### Advice 
 <details>
-  <summary>⏳ My mission</summary>
+  <summary>⏳ Roadmap </summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -78,12 +78,20 @@ I am happy when I can improve myself just 1% everyday.
 </details>
 
 #### Learn basic code
-- Start to Code With the basic understand on: 
+<details>
+  <summary>⏳ Start to Code With the basic understanding of: </summary>
+  <br/>
+
+<!--START_SECTION:activity--> 
 	* Variables 
 	* Loops 
 	* Control flow
 	* Data types
 	* Functions
+
+ <!--END_SECTION:activity-->
+</details>
+
 #### strategy 
   - Solve the problem conceptually 
   - Apply that conceptual understanding into code
