@@ -76,6 +76,7 @@ I am happy when I can improve myself just 1% everyday.
 	
 <!--END_SECTION:activity-->
 </details>
+
 #### Learn basic code
 - Start to Code With the basic understand on: 
 	* Variables 
