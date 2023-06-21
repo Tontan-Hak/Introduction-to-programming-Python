@@ -77,7 +77,6 @@ I am happy when I can improve myself just 1% everyday.
 <!--END_SECTION:activity-->
 </details>
 
-#### Learn basic code
 <details>
   <summary>💻 Start to Code With the basic understanding of: </summary>
   <br/>
@@ -92,7 +91,6 @@ I am happy when I can improve myself just 1% everyday.
  <!--END_SECTION:activity-->
 </details>
 
-#### strategy 
 <details>
   <summary>⚡ strategy </summary>
   <br/>
