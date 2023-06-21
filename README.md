@@ -59,7 +59,6 @@ In regards to the duration of this project, by my calculations, adding up the es
 <!--END_SECTION:activity-->
 </details>
 
-#### Advice 
 <details>
   <summary>⏳ Roadmap to get job </summary>
   <br/>
