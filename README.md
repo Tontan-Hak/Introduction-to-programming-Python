@@ -36,7 +36,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 ---
 # How I start learning code (Self-Study)
 <details>
-  <summary>⏳ Roadmap </summary>
+  <summary>⏳ Roadmap course study</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -61,7 +61,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 #### Advice 
 <details>
-  <summary>⏳ Roadmap </summary>
+  <summary>⏳ Roadmap to get job </summary>
   <br/>
 
 <!--START_SECTION:activity-->
