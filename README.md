@@ -79,15 +79,15 @@ I am happy when I can improve myself just 1% everyday.
 
 #### Learn basic code
 <details>
-  <summary>⏳ Start to Code With the basic understanding of: </summary>
+  <summary>💻 Start to Code With the basic understanding of: </summary>
   <br/>
 
 <!--START_SECTION:activity--> 
-	* Variables 
-	* Loops 
-	* Control flow
-	* Data types
-	* Functions
+     * Variables 
+     * Loops 
+     * Control flow
+     * Data types
+     * Functions
 
  <!--END_SECTION:activity-->
 </details>
