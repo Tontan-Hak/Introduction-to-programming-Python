@@ -93,12 +93,19 @@ I am happy when I can improve myself just 1% everyday.
 </details>
 
 #### strategy 
+<details>
+  <summary>⚡ strategy </summary>
+  <br/>
+
+<!--START_SECTION:activity-->
   - Solve the problem conceptually 
   - Apply that conceptual understanding into code
   - Looking up the answer 
   - Understand the solution 
   - Learn what is the parttern
-	
+ <!--END_SECTION:activity-->
+</details>
+
 ##
 
 <div align="right">
