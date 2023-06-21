@@ -54,6 +54,12 @@ I am happy when I can improve myself just 1% everyday.
   - [ ] [CS50's Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
   
 #### Advice 
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+
 - Step 1: Learn program fundamental (Ex:How the computer work, how software work, Python, ...)
 - Step 2 
    1. Backend and /or Frontend development - EG, Django or react
@@ -67,7 +73,9 @@ I am happy when I can improve myself just 1% everyday.
        1. Database
        1. API
 - Step 4: study for interview and Start applying 
-
+	
+<!--END_SECTION:activity-->
+</details>
 #### Learn basic code
 - Start to Code With the basic understand on: 
 	* Variables 
