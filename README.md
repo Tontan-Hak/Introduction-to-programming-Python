@@ -60,7 +60,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 </details>
 
 <details>
-  <summary>🚩 4 fundamental steps </summary>
+  <summary>🚩 Four Foundational Steps </summary>
   <br/>
 
 <!--START_SECTION:activity-->
