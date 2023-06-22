@@ -34,9 +34,9 @@ In regards to the duration of this project, by my calculations, adding up the es
 </div>
 
 ---
-# How I start learning code (Self-Study)
+# How I start learning code
 <details>
-  <summary>⏳ Roadmap course study</summary>
+  <summary>⏳ Study Course Roadmap</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -60,7 +60,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 </details>
 
 <details>
-  <summary>🚩 Roadmap to get job </summary>
+  <summary>🚩 4 fundamental steps </summary>
   <br/>
 
 <!--START_SECTION:activity-->
