@@ -261,6 +261,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 - [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
 - [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 - [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
+- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
 - [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
 
@@ -344,11 +345,9 @@ Just a few sites that don't fit into any of the other areas above
 
 - [Awesome Math](https://github.com/Tontan-Hak/awesome-math)
 - [Lecture 1: Probability and Counting | Statistics 110 (Harvard)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
 - [TED's Official Public Speaking Course](https://www.youtube.com/playlist?list=PLJicmE8fK0EhSSdarWwp8GKSYUnPd1u8o)
-- [MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Do you know the 5 love languages? Here’s what they are — and how to use them](https://ideas.ted.com/whats-your-favorite-persons-love-language-heres-how-to-tell-and-how-to-use-it/?utm_source=facebook.com&utm_medium=social&utm_content=2022-11-20&utm_campaign=social&fbclid=IwAR25owRAEi8vp_JEKpDOuZQnSFZGNypAvS3Ud9eFW-Z0j6WS0IUP99rqMkk)
 - [Tim Urban: Inside the mind of a master procrastinator | TED](https://www.youtube.com/watch?v=arj7oStGLkU)
 - [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
