@@ -222,13 +222,14 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  <br/>
 > 
 > <!--START_SECTION:activity--> 
-> 1. Step 1: Be come problem solver
-> 2. Step 2: Start to Code With the basic understanding of:
+> 1. Key 1: Be come problem solver
+> 2. Key 2: Start to Code With the basic understanding of:
 >     * Variables 
 >     * Loops 
 >     * Control flow
 >     * Data types
 >     * Functions
+> 3. Key 3: Build software in the real world
 >
 >  <!--END_SECTION:activity-->
 > </details>
