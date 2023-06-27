@@ -218,10 +218,11 @@ In regards to the duration of this project, by my calculations, adding up the es
 > </details>
 >
 > <details>
->  <summary>💻 Start to Code With the basic understanding of: </summary>
+>  <summary>💻 3 keys to learn coding </summary>
 >  <br/>
 > 
 > <!--START_SECTION:activity--> 
+> - Step 2: Start to Code With the basic understanding of:
 >  * Variables 
 >  * Loops 
 >  * Control flow
