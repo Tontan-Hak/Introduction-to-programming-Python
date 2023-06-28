@@ -6,45 +6,37 @@
     <title>Document</title>
   </head>
   <body>
-    <table>
-        
-      <tr>
-        <!-- Row 1 -->
-            
-        <th></th>
-            
-        <th>Saturday</th>
-            
-        <th>Sunday</th>
-          
-      </tr>
-        
-      <tr>
-        <!-- Row 2 -->
-            
-        <th>Morning</th>
-            
-        <td rowspan="2">Work</td>
-            
-        <td rowspan="3">Relax</td>
-          
-      </tr>
-        
-      <tr>
-        <!-- Row 3 -->
-            
-        <th>Afternoon</th>
-          
-      </tr>
-        
-      <tr>
-        <!-- Row 4 -->
-            
-        <th>Evening</th>
-            
-        <td>Dinner</td>
-          
-      </tr>
+ <table>
+  <thead>
+    <tr>
+      <th></th>
+      <th scope="col">Saturday</th>
+      <th scope="col">Sunday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Morning</th>
+      <td rowspan="2">Work</td>
+      <td rowspan="3">Relax</td>
+    </tr>
+    <tr>
+     <th scope="row">Afternoon</th>
+    </tr>
+    <tr>
+      <th scope="row">Evening</th>
+      <td>Dinner</td>
+    </tr>
+  </tbody>
+</table>
     </table>
+    <article>
+  <p>The first World Series was played between Pittsburgh and Boston in 1903 and was a nine-game series.</p>
+</article>
+<aside>
+  <p>
+   Babe Ruth once stated, “Heroes get remembered, but legends never die.”
+  </p>
+</aside>
   </body>
 </html>
