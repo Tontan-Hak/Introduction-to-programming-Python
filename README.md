@@ -1,5 +1,3 @@
-| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
-|:------------:|
 # 🎓 Getting started on Computer
 ![](https://komarev.com/ghpvc/?username=LearningHowToCode&color=brightgreen&label=VISITORS)
 
@@ -9,12 +7,14 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 # Contents
 
 - [About](#About)
-- [Self-Study](#Self-Study)
-- [Computer Science](#Computer-Science)
-- [Course](#Course)
-- [Mathematics](#Mathematics)
-- [Importance](#Importance)
-- [Open online source](#Open-online-source)
+- [Learning Goals]()
+- [Main Curriculum]()
+	- [Self-Study](#Self-Study)
+	- [Computer Science](#Computer-Science)
+	- [Course recommendation](#Course-recommendation)
+	- [Mathematics](#Mathematics)
+- [Open Source Education](#Open-Source-Education)
+- [Website and Open Learning](#Website-and-Open-Learning)
 - [Read More Article](#Read-More-Article)
 - [Miscellaneous](#Miscellaneous)
 # About
@@ -34,15 +34,219 @@ In regards to the duration of this project, by my calculations, adding up the es
 </div>
 
 ---
-# How I learned to code (Self-Study)
-I am happy when I can improve myself just 1% everyday.
-  - [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
-  - [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
-  - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-  - [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
-  - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-  - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-  - [ODIN PROJECT](https://www.theodinproject.com/)
+# Learning How to learn
+> <details>
+>  <summary> How to Get the Most Out of Studying</summary>
+>  <br/>
+>	
+> <!--START_SECTION:activity-->	
+> - [🎬 How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
+>    * [Part 1 of 5, "Beliefs That Make You Fail... Or Succeed"](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2)
+>    * [Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3)
+>    * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4)
+>    * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) 
+>    * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) 		
+>  <!--END_SECTION:activity-->
+>  </details>
+>	
+> <details>
+> <summary> Learning how to learn for student</summary>
+>  <br/>
+>	
+>  <!--START_SECTION:activity-->
+>  - Learning how to learn
+>	
+>    * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PLWM_YBhktZmxUhsC_FVsVXNVNZ3q3Lr4s)
+>    * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PLWM_YBhktZmwtIz2NP39-GIYuQcEvU6xu)
+>    * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.youtube.com/playlist?list=PLWM_YBhktZmw3EDBWap0kpZiZwR6YtjsA)
+>    * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
+>    * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
+>  <!--END_SECTION:activity-->
+>  </details>
+>
+>  <details>
+>  <summary> Self directed learning</summary>
+>  <br/>
+>	
+>  <!--START_SECTION:activity-->
+>   - Students responsibility on self learning [Part 1](https://www.youtube.com/watch?v=kgfFCnBdSas&t=1s) | [Part 2](https://www.youtube.com/watch?v=zDimJQQySzA)
+>   - [រៀនពីរបៀបរៀន - Learning how to learn (Video)](https://www.youtube.com/watch?v=O96fE1E-rf8)
+>       * [ខួរក្បាលនិងការរៀន - Brain and learning (Slide)](https://docs.google.com/presentation/d/11yaoldSxqnvNcWR7w-xV9x30rG1qNg2d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=OL14SlNhSwk&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A)
+>       * [វិធីសាស្រ្តជំនះការពន្យារពេល(ខ្ជិល) - Beating procrastination and multi-tasking (Slide)](https://docs.google.com/presentation/d/19Ai37o6bfNN4w0PHVYJcGSAk1fVKS8Me/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=wysP0TNz2To&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=7)
+>       * [សង្ខេបវិធីសាស្រ្តរៀនមានប្រសិទ្ធភាព - Summary slide (Slide)](https://docs.google.com/presentation/d/1bYt0uDe3SxPzuAxaLmwUQS7GIbdgyBuO/edit#slide=id.p1)
+>          * [របៀបកត់ត្រា - Note taking (Slide)](https://docs.google.com/presentation/d/1ybertTLzlpn58Pz-2paWZel1ED6krvLb/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=_Ez1D9V2_1U&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=9)
+>          * [រំលឹកសកម្ម - Active recall (Slide)](https://docs.google.com/presentation/d/1bYt0uDe3SxPzuAxaLmwUQS7GIbdgyBuO/edit#slide=id.p3) | [Video](https://www.youtube.com/watch?v=-W4MuiCmQak&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=2)
+>          * [ការជជីកសួរ - Elaborative (Slide)](https://docs.google.com/presentation/d/1EhJWyD1Fu_LiA3-ruV9W0CF_HL3zI-10/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=cfwfGdvw_cg&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=3)
+>          * [ការប្រៀបប្រដូច - Analogy (Slide)](https://docs.google.com/presentation/d/1mPpPYRG7wekVkRj5YdUQeydxoqGzr_6d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=RrZsNozml0I&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=4)
+>          * [ការបញ្ចូលទិន្នន័យដោយ២វិធី - Dual coding (Slide)](https://docs.google.com/presentation/d/1aw2hMgnezv3KAZIao4VM_6clSoSdEe4a/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=TbsCvRlJ0Ag&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=6)
+>          * [ការរំលឹកមេរៀនលោះថ្ងៃ-Distributed Practice (Slide)](https://docs.google.com/presentation/d/1JyLVaf6BlKQxxp0lZr5HlnhkQ8-y1NIb/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=wSb5nK3--LE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=5)
+>          * [ការប្រើប្រាស់ Flashcards ដើម្បីជំនួយដល់ការរៀនមានប្រសិទ្ធភាព - How to use flashcards (Video)](https://www.youtube.com/watch?v=mh5uIqCjFHg&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=8)
+>          * [វិធីសាស្រ្តរៀនជីវវិទ្យាអោយ និងចាំបានយូរ - How to be study biology effectively (Video)](https://www.youtube.com/watch?v=YGorf7blAHE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=10)
+>    - បទពិសោធន៍នៃការរៀនអនឡាញ - Online learning experiences
+>       * [ការរៀនអនឡាញ - Online learning (Slide)](https://docs.google.com/presentation/d/1flEebmoLLzLMPMEvuAPprKuSNxJqAET1/edit#slide=id.p1)
+>       * [ការរៀនProgramming អនឡាញដោយខ្លួនឯង (វីរៈរដ្ឋ) - Online programming learning experiences by Virakroth (slide)](https://docs.google.com/presentation/d/1_XoXjcOWPwKY4REbQt3CthYs0pGSVn6L/edit#slide=id.p1)
+>       * [បទពិសោធន៍នៃការរៀនអនឡាញរបស់ សោភា - Online learning experiences by HO Chanponleusophea (Slide)](https://docs.google.com/presentation/d/16-RbVnba-qx7gfe6Tlg6SKe1sS9WB50m/edit#slide=id.p1)
+>  <!--END_SECTION:activity-->
+>  </details> 
+>     
+>  <details>
+>  <summary> Growth Mindset</summary>
+>  <br/>
+>	
+>  <!--START_SECTION:activity-->
+>  - Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+>    - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+>    - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+>    - [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+>    - [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+>    - [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
+>    - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
+>    - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+>    - [🎬 Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
+>    - [📄 How to Learn Anything with the Feynman Technique](https://blog.doist.com/feynman-technique/)
+>  <!--END_SECTION:activity-->
+>  </details>
+>
+>  <details>
+>  <summary> How to learn math</summary>
+>   <br/>
+> 	
+>  <!--START_SECTION:activity-->
+>  - [Understanding Mathematics](https://github.com/nbro/understanding-math)
+>  - [ How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
+>    * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
+>    * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
+>    * [📄 Getting Help](https://tutorial.math.lamar.edu/Extras/StudyMath/GettingHelp.aspx)
+>    * [📄 Homework](https://tutorial.math.lamar.edu/Extras/StudyMath/Homework.aspx)
+>    * [📄 Problem Solving](https://tutorial.math.lamar.edu/Extras/StudyMath/ProblemSolving.aspx)
+>    * [📄 Studying For Exams](https://tutorial.math.lamar.edu/Extras/StudyMath/StudyForExam.aspx)
+>    * [📄 Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
+>    * [📄 Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)	
+>  - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
+>  - [🎬 How you can be good at math, and other surprising facts about learning](https://www.youtube.com/watch?v=3icoSeGqQtY) 
+>  - [🎬 Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos)
+>  - [🎬 The Real Reason You Should Study Math](https://www.youtube.com/watch?v=NjYjT9j-y8M)
+>  - [📄 The Feynman lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
+>  - [📄 The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/feynman-technique/)
+>  <!--END_SECTION:activity-->
+>   </details>
+
+## 🚩 Recommended Course and Books
+> <details>
+>  <summary> Learning how to learn </summary>
+>  <br/>
+>	
+> <!--START_SECTION:activity-->
+> - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
+> - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
+> - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
+> - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
+> - [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
+>  <!--END_SECTION:activity-->
+>   </details>
+>
+> <details>
+>  <summary> Books </summary>
+>  <br/>
+>	
+> <!--START_SECTION:activity-->
+> - [Learn like a pro](https://drive.google.com/file/d/1dsj4JgQtqt5NBRvsOHMnB59M_nBNA7h3/view?usp=sharing)
+> - [Make it stick](https://drive.google.com/file/d/1xoiKkTZI-16dJtb4NEGZNH3kngrC5vF0/view?usp=sharing)
+> - [Deep work](https://drive.google.com/file/d/1sMHGjwZqQCPpECVKtQAU6qFYErALoYQC/view?usp=sharing)
+>  <!--END_SECTION:activity-->
+>   </details>
+
+## 📑 Teaching and learning
+- [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
+- [🚩 Constructivism and Mathematics, Science, and Technology Education](https://www.coursera.org/learn/constructivism)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# How I start learning code
+> <details>
+>  <summary>⏳ Study Course Roadmap</summary>
+>  <br/>
+>
+> <!--START_SECTION:activity-->
+>  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+>  - [X] [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+>  - [x] [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
+>  - [X] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
+>  - [X] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
+>  - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+>  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+>  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
+>  - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+>  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
+>  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
+>  - [ ] [Google Project Management:](https://www.coursera.org/professional-certificates/google-project-management)
+>  - [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+>  - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+>  - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+>  - [ ] [CS50's Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
+> <!--END_SECTION:activity-->
+> </details>
+>
+> <details>
+>  <summary>🚩 Four Foundational Steps </summary>
+>  <br/>
+>
+> <!--START_SECTION:activity-->
+>
+> - Step 1: Learn program fundamental (Ex:How the computer work, how software work, Python, ...)
+> - Step 2 
+>   1. Backend and /or Frontend development - EG, Django or react
+>   1. Break into big tech: Learn Data Structure Algorithm
+>   1. Learn Data science/AI/Machine Learning
+>   1. Fullstack online bootcamp
+> - Step 3: 2-3 impressive portfolio project
+>   * a range of skills
+>   * Create read update delete
+>       1. User authentication
+>       1. Database
+>       1. API
+> - Step 4: study for interview and Start applying 
+>	
+> <!--END_SECTION:activity-->
+> </details>
+>
+> <details>
+>  <summary>💻 3 keys to learn coding </summary>
+>  <br/>
+> 
+> <!--START_SECTION:activity--> 
+> 1. Key 1: Be come problem solver
+> 2. Key 2: Start to Code With the basic understanding of:
+>     * Variables 
+>     * Loops 
+>     * Control flow
+>     * Data types
+>     * Functions
+> 3. Key 3: Build software in the real world
+>
+>  <!--END_SECTION:activity-->
+> </details>
+>
+>  <details>
+>   <summary>⚡ strategy </summary>
+>   <br/>
+> 
+>  <!--START_SECTION:activity-->
+>   - Solve the problem conceptually 
+>   - Apply that conceptual understanding into code
+>   - Looking up the answer 
+>   - Understand the solution 
+>   - Learn what is the parttern
+>  <!--END_SECTION:activity-->
+> </details>
+
 ##
 
 <div align="right">
@@ -55,13 +259,16 @@ I am happy when I can improve myself just 1% everyday.
 # Computer Science
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
-1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-1. [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
-1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
-1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-2. [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
-3. [Open Source Society University Computer Science Degree](https://github.com/ossu)
+1. [OSSU CS timeline](https://docs.google.com/spreadsheets/d/1VrIrtKGEAohCUygF-Y4UNsU5v2mWivNF6VvnWyTayRQ/edit?usp=sharing)
+1. [Open Source Society University Computer Science Degree](https://github.com/ossu)
+
+#### Start here 
+- [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
+- [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
+- [Learning Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
+- [Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
+- [Computer Science for Game Development](https://www.edx.org/professional-certificate/harvardx-computer-science-for-game-development)
+- [CS50's Introduction to Databases with SQL](https://www.edx.org/course/cs50s-introduction-to-databases-with-sql)
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Free-Template-Computer-Science-Degree-d6d8bc6e7fc44ddd86e4432c0b04ba2a)
 ##
@@ -73,6 +280,7 @@ I am happy when I can improve myself just 1% everyday.
 </div>
 
 ---
+
 ### MIT challenge in computer science
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/)
@@ -90,8 +298,8 @@ I am happy when I can improve myself just 1% everyday.
 1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
-2. Computer Architecture for Everybody
-3. Java Enterprise Application Development for Everybody
+1. Computer Architecture for Everybody
+1. Java Enterprise Application Development for Everybody
 
 ##
 
@@ -102,7 +310,15 @@ I am happy when I can improve myself just 1% everyday.
 </div>
 
 ---
-# Course
+# Course recommendation 
+
+   * [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
+   * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+   * [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
+   * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+   * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+   * [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
    * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
    * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
    * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
@@ -117,6 +333,29 @@ I am happy when I can improve myself just 1% everyday.
    * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
    * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
    * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+   * [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+   * [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+   * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
+   * [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Math prerequisites
+* [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
+* [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
+* [Algebra](https://www.khanacademy.org/math/algebra-home)
+* [Geometry](https://www.khanacademy.org/math/geometry-home)
+* [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+* [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+* [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+* [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
 
 ##
 
@@ -128,6 +367,7 @@ I am happy when I can improve myself just 1% everyday.
 
 ---
 # Mathematics
+- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
 - [18.01.2x Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
 - [18.01.3x Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
@@ -139,8 +379,8 @@ I am happy when I can improve myself just 1% everyday.
 - [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
 - [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
 - [18.031 System Functions and the Laplace Transform](https://ocw.mit.edu/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/)
-- [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [Introduction To Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 - [Highlights Of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
 - [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
@@ -159,6 +399,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
 - [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 - [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
+- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
 - [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
 
@@ -171,12 +412,26 @@ I am happy when I can improve myself just 1% everyday.
 </div>
 
 ---
-# Importance 
+# Open Source Education
+- [GCF Global (Creating Opportunities for a Better life)](https://edu.gcfglobal.org/en/)
 - [Complete education in computer science](https://github.com/ossu/computer-science)
 - [Complete education in mathematics](https://github.com/ossu/math)
 - [Data Science](https://github.com/ossu/data-science)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
-# Open online source 
+
+### The Open University
+- [Openlearn](https://www.open.edu/openlearn/free-courses/full-catalogue)
+- [How I get it](https://www.facebook.com/photo/?fbid=176503291796141&set=a.146193098160494)
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+#  Website and Open Learning
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
   - [W3school](https://www.w3schools.com/)
   - [Codecademy](https://www.codecademy.com/catalog)
@@ -228,17 +483,20 @@ Just a few sites that don't fit into any of the other areas above
 
 - [Awesome Math](https://github.com/Tontan-Hak/awesome-math)
 - [Lecture 1: Probability and Counting | Statistics 110 (Harvard)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
 - [TED's Official Public Speaking Course](https://www.youtube.com/playlist?list=PLJicmE8fK0EhSSdarWwp8GKSYUnPd1u8o)
-- [MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Do you know the 5 love languages? Here’s what they are — and how to use them](https://ideas.ted.com/whats-your-favorite-persons-love-language-heres-how-to-tell-and-how-to-use-it/?utm_source=facebook.com&utm_medium=social&utm_content=2022-11-20&utm_campaign=social&fbclid=IwAR25owRAEi8vp_JEKpDOuZQnSFZGNypAvS3Ud9eFW-Z0j6WS0IUP99rqMkk)
 - [Tim Urban: Inside the mind of a master procrastinator | TED](https://www.youtube.com/watch?v=arj7oStGLkU)
 - [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
 - [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
 - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
-
+- [LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)
+- [Create a Portfolio Website Using HTML, CSS, & JavaScript](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/)
+- [Data Science Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=sD468LfeVdc)
+- [Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
+- [Learn Data Structures and Algorithms – Introduction and Learning Resources](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/?fbclid=IwAR1HRufLncLOHk4ujYPd9p0GIuxktMbcP4h6N25mpJPZMKWEJEq28gjM4Tc)
+- [My Unconventional Coding Story | Self-Taught](https://www.youtube.com/watch?v=eFJGyT3C-Y0)
 ##
 
 <div align="right">
@@ -250,11 +508,12 @@ Just a few sites that don't fit into any of the other areas above
 ---
 # Watch more
 
+
 - [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 - [Can you get an MIT education for $2,000? | Scott Young | TEDxEastsidePrep](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
 # Road Map
-* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
+* [roadmap.sh](https://roadmap.sh/roadmaps)
 
 # Find the best courses, wherever they exist
 - [Class Central](https://www.classcentral.com/)
@@ -262,6 +521,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
 - [Open Source Society University](https://github.com/ossu)
+- [Self Study Projects by DIEGO VERA](https://www.diegovera.org/projects)
 
 ##
 
@@ -283,15 +543,5 @@ Just a few sites that don't fit into any of the other areas above
 <a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
 
 --- 
-<details>
-  <summary>⏳ My mission</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-	To provide a Self-taught education 
-<!--END_SECTION:activity-->
-</details>
-
-	💪 It should be one of our mission to improve everyday for the better
-	I am happy when I can improve myself just 1% everyday
-
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
