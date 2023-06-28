@@ -476,6 +476,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 > - [What is Computational Thinking?](https://digitalpromise.org/initiative/computational-thinking/computational-thinking-for-next-generation-science/what-is-computational-thinking/)
 > - [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners](https://www.youtube.com/watch?v=JTxsNm9IdYU)
 > - [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
+> - [How to Find a Remote Developer Job in 2023](https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/?fbclid=IwAR2nqbXC6Oykqj19bSBnW7gpH3Ywq7YDRCwJLFvNcN5ilymgz1agFZH8MBI)
 > <!--END_SECTION:activity-->
 > </details>
 ## Miscellaneous
