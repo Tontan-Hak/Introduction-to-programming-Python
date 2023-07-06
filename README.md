@@ -312,7 +312,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 ---
 # Course recommendation 
 
-   * [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
+   * [ ] [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
    * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
    * [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
    * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
