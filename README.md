@@ -348,14 +348,14 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 ---
 # Math prerequisites
-* [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
-* [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
-* [Algebra](https://www.khanacademy.org/math/algebra-home)
-* [Geometry](https://www.khanacademy.org/math/geometry-home)
-* [Pre-calculus](https://www.khanacademy.org/math/precalculus)
-* [Calculus 1](https://www.khanacademy.org/math/calculus-1)
-* [Calculus 2](https://www.khanacademy.org/math/calculus-2)
-* [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
+* [x] [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
+* [x] [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
+* [x] [Algebra](https://www.khanacademy.org/math/algebra-home)
+* [x] [Geometry](https://www.khanacademy.org/math/geometry-home)
+* [x] [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+* [x] [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+* [x] [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+* [x] [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
 
 ##
 
