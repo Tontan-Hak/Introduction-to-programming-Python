@@ -178,9 +178,9 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 >  - [X] [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
 >  - [x] [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
+>  - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 >  - [X] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
 >  - [X] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
->  - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 >  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
 >  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
 >  - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
@@ -312,31 +312,31 @@ In regards to the duration of this project, by my calculations, adding up the es
 ---
 # Course recommendation 
 
-   * [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
-   * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-   * [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
-   * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
-   * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-   * [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
-   * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
-   * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
-   * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
-   * [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
-   * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-   * [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)  
-   * [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
-   * [How To Speak](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/)
-   * [Introduction To Computer Science And Programming](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
-   * [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
-   * [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
-   * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
-   * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
-   * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-   * [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-   * [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
-   * [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
-   * [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+   * [ ] [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
+   * [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+   * [ ] [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
+   * [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+   * [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+   * [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+   * [ ] [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
+   * [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+   * [ ] [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
+   * [ ] [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
+   * [ ] [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+   * [ ] [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+   * [ ] [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)  
+   * [ ] [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
+   * [ ] [How To Speak](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/)
+   * [ ] [Introduction To Computer Science And Programming](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
+   * [ ] [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
+   * [ ] [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
+   * [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+   * [ ] [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
+   * [ ] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+   * [ ] [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+   * [ ] [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+   * [ ] [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
+   * [ ] [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
 ##
 
@@ -348,14 +348,14 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 ---
 # Math prerequisites
-* [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
-* [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
-* [Algebra](https://www.khanacademy.org/math/algebra-home)
-* [Geometry](https://www.khanacademy.org/math/geometry-home)
-* [Pre-calculus](https://www.khanacademy.org/math/precalculus)
-* [Calculus 1](https://www.khanacademy.org/math/calculus-1)
-* [Calculus 2](https://www.khanacademy.org/math/calculus-2)
-* [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
+* [x] [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
+* [x] [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
+* [x] [Algebra](https://www.khanacademy.org/math/algebra-home)
+* [x] [Geometry](https://www.khanacademy.org/math/geometry-home)
+* [x] [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+* [x] [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+* [x] [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+* [x] [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
 
 ##
 
@@ -367,41 +367,41 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 ---
 # Mathematics
-- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
-- [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
-- [18.01.2x Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
-- [18.01.3x Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
-- [18.02.1x Multivariable Calculus 1: Vectors and Derivatives](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives)
-- [18.031x Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
-- [18.032x Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems)
-- [18.033x NxN systems](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst)
-- [18.03Fx Fourier](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
-- [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
-- [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
-- [18.031 System Functions and the Laplace Transform](https://ocw.mit.edu/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/)
-- [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
-- [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
-- [Introduction To Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
-- [Highlights Of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
-- [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
-- [Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)
-- [Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)
-- [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
-- [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
-- [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
-- [A 2020 Vision Of Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
-- [Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
-- [Introduction to linear algebra and ordinary differential equations](https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/)
-- [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
-- [Introduction to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-- [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
-- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
-- [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
-- [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-- [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
-- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-- [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
-- [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
+- [ ] [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+- [ ] [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
+- [ ] [18.01.2x Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
+- [ ] [18.01.3x Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
+- [ ] [18.02.1x Multivariable Calculus 1: Vectors and Derivatives](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives)
+- [ ] [18.031x Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
+- [ ] [18.032x Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems)
+- [ ] [18.033x NxN systems](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst)
+- [ ] [18.03Fx Fourier](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
+- [ ] [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
+- [ ] [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
+- [ ] [18.031 System Functions and the Laplace Transform](https://ocw.mit.edu/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/)
+- [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [ ] [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [ ] [Introduction To Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
+- [ ] [Highlights Of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
+- [ ] [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
+- [ ] [Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)
+- [ ] [Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)
+- [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+- [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+- [ ] [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+- [ ] [A 2020 Vision Of Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+- [ ] [Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+- [ ] [Introduction to linear algebra and ordinary differential equations](https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/)
+- [ ] [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
+- [ ] [Introduction to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [ ] [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+- [ ] [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+- [ ] [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
+- [ ] [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+- [ ] [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
+- [ ] [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [ ] [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
+- [ ] [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
 
 ##
 
@@ -533,6 +533,10 @@ Just a few sites that don't fit into any of the other areas above
 </div>
 
 ---
+
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
@@ -544,5 +548,3 @@ Just a few sites that don't fit into any of the other areas above
 <a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
 
 --- 
-| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
-|:------------:|
