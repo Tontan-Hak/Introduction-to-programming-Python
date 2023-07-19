@@ -177,6 +177,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 > <!--START_SECTION:activity-->
 >  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 >  - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+>  - [x] [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python?index=product&queryID=056d81b593adf76815791f58ebd60d03&position=4&linked_from=autocomplete&c=autocomplete) 
 >  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
 >  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
 >  - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
