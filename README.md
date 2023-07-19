@@ -183,11 +183,11 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 >  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
 >  - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
->  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 >  - [ ] [Google Project Management:](https://www.coursera.org/professional-certificates/google-project-management)
 >  - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 >  - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 >  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+>  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 >  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
 > <!--END_SECTION:activity-->
 > </details>
