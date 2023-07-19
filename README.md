@@ -292,7 +292,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 - [Book](https://drive.google.com/file/d/1cgQzJxxX0ZgUkiyilRMv8EChDt-qR10D/view?usp=share_link)
 - [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
-1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
+- [x] 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody (PY4E)](https://www.py4e.com/lessons)
 1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
 1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
