@@ -176,11 +176,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 >
 > <!--START_SECTION:activity-->
 >  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
->  - [X] [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
->  - [x] [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
 >  - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
->  - [X] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
->  - [X] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
 >  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
 >  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
 >  - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
@@ -293,13 +289,13 @@ In regards to the duration of this project, by my calculations, adding up the es
 - [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 - [x] 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
-- [x] 1. [Python For Everybody (PY4E)](https://www.py4e.com/lessons)
-1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
-1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
-1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
-1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
-1. Computer Architecture for Everybody
-1. Java Enterprise Application Development for Everybody
+- [x] 2. [Python For Everybody (PY4E)](https://www.py4e.com/lessons)
+- [x] 3. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
+- [] 4. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
+- [] 5. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
+- [] 6. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
+- [] 7. Computer Architecture for Everybody
+- [] 8. Java Enterprise Application Development for Everybody
 
 ##
 
