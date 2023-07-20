@@ -186,7 +186,6 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
 >  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 >  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
->  - [ ] [Google Project Management:](https://www.coursera.org/professional-certificates/google-project-management)
 > <!--END_SECTION:activity-->
 > </details>
 >
