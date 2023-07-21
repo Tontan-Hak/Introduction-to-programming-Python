@@ -182,7 +182,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  - [ ] [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 >  - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 >  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
->  - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+>  - [ ] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 >  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
 >  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 >  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
