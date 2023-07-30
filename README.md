@@ -176,20 +176,20 @@ In regards to the duration of this project, by my calculations, adding up the es
 >
 > <!--START_SECTION:activity-->
 >  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+>  - [ ] [CS50S: Introduction to Programming with Scratch]()
 >  - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
->  - [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
->  - [ ] [CS50's Mobile App Development with React Native]()
+>  - [ ] [CS50’s Computer Science for Lawyers (CS50L)]()
+>  - [ ] [CS50’s Computer Science for Business Professionals (CS50B)]()
 >  - [ ] [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 >  - [ ] [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+>  - [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+>  - [ ] [CS50's Mobile App Development with React Native]()
 >  - [ ] [CS50's Introduction to Game Development]()
 >  - [ ] [CS50's Mobile App Development with Flutter]()
 >  - [ ] [CS50's Introduction to Data Science]()
 >  - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 >  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
->  - [ ] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
->  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
->  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
->  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
+
 > <!--END_SECTION:activity-->
 > </details>
 >
@@ -337,6 +337,10 @@ In regards to the duration of this project, by my calculations, adding up the es
    * [ ] [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
    * [ ] [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
    * [ ] [Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+>  - [ ] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+>  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+>  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
+>  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
 
 ##
 
