@@ -483,6 +483,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 > - [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners](https://www.youtube.com/watch?v=JTxsNm9IdYU)
 > - [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 > - [How to Find a Remote Developer Job in 2023](https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/?fbclid=IwAR2nqbXC6Oykqj19bSBnW7gpH3Ywq7YDRCwJLFvNcN5ilymgz1agFZH8MBI)
+> - [Teach Yourself Computer Science – Key CS Concepts You Should Know](https://www.freecodecamp.org/news/what-every-software-engineer-should-know/?fbclid=IwAR3g7n47v7Sm1INj59_3fY11X48px_5pbfhMlQmv5Zenan53TXA6aJa0yuI)
 > <!--END_SECTION:activity-->
 > </details>
 ## Miscellaneous
