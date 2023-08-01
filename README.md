@@ -344,6 +344,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
 >  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 >  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
+>  - [ ] [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses)
 
 ##
 
