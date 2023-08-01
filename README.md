@@ -191,7 +191,6 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  - [ ] [CS50's Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
 >  - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 >  - [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) or [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
->  - [ ] []()
 > <!--END_SECTION:activity-->
 > </details>
 >
