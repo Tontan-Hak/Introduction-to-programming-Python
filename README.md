@@ -170,6 +170,10 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 ---
 # How I start learning code
+1) Define your North Star
+2) Learn to think like a computer 
+3) Learn through action
+4) Get the reps in - Work like a madman
 > <details>
 >  <summary>⏳ Study Course Roadmap</summary>
 >  <br/>
