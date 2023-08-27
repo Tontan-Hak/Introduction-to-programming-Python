@@ -299,7 +299,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 # [Dr. Chuck Online](https://online.dr-chuck.com/)
 - [x] 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 - [x] 2. [Python For Everybody (PY4E)](https://www.py4e.com/lessons)
-- [ ] 3. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
+- [X] 3. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
 - [ ] 4. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 - [ ] 5. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 - [ ] 6. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
