@@ -264,6 +264,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 # Computer Science
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+   - [CS50's Introduction to Databases with SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
 1. [OSSU CS timeline](https://docs.google.com/spreadsheets/d/1VrIrtKGEAohCUygF-Y4UNsU5v2mWivNF6VvnWyTayRQ/edit?usp=sharing)
 1. [Open Source Society University Computer Science Degree](https://github.com/ossu)
 
