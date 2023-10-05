@@ -264,7 +264,10 @@ In regards to the duration of this project, by my calculations, adding up the es
 # Computer Science
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+   - [CS50x 2023 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
+   - [CS50's Introduction to Artificial Intelligence with Python 2023](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
    - [CS50's Introduction to Databases with SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+   - [CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
 1. [OSSU CS timeline](https://docs.google.com/spreadsheets/d/1VrIrtKGEAohCUygF-Y4UNsU5v2mWivNF6VvnWyTayRQ/edit?usp=sharing)
 1. [Open Source Society University Computer Science Degree](https://github.com/ossu)
 
