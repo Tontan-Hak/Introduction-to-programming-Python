@@ -517,6 +517,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 - [Learn Data Structures and Algorithms – Introduction and Learning Resources](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/?fbclid=IwAR1HRufLncLOHk4ujYPd9p0GIuxktMbcP4h6N25mpJPZMKWEJEq28gjM4Tc)
 - [My Unconventional Coding Story | Self-Taught](https://www.youtube.com/watch?v=eFJGyT3C-Y0)
+- [CS Unplugged](https://www.csunplugged.org/en/)
 ##
 
 <div align="right">
