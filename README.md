@@ -133,7 +133,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  <!--END_SECTION:activity-->
 >   </details>
 
-## 🚩 Recommended Course and Books
+## Recommended Course and Books
 > <details>
 >  <summary> Learning how to learn </summary>
 >  <br/>
@@ -158,7 +158,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  <!--END_SECTION:activity-->
 >   </details>
 
-## 📑 Teaching and learning
+## Teaching and learning
 - [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
 - [🚩 Constructivism and Mathematics, Science, and Technology Education](https://www.coursera.org/learn/constructivism)
 
