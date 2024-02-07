@@ -184,7 +184,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 > <!--START_SECTION:activity-->
 >  - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 >  - [ ] [CS50S: Introduction to Programming with Scratch](https://www.edx.org/course/cs50s-introduction-to-programming-with-scratch)
->  - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+>  - [x] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
 >  - [ ] [CS50’s Computer Science for Lawyers (CS50L)](https://www.edx.org/course/cs50-for-lawyers)
 >  - [ ] [CS50’s Computer Science for Business Professionals (CS50B)](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
 >  - [ ] [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
