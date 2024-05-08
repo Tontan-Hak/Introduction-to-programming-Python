@@ -355,6 +355,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 >  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 >  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
 >  - [ ] [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses)
+>  - [ ] [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ##
 
