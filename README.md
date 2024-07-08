@@ -1,4 +1,4 @@
-# 🎓 Getting started on Computer
+# 🎓 Getting Started on Computer
 ![](https://komarev.com/ghpvc/?username=LearningHowToCode&color=brightgreen&label=VISITORS)
 
 The open-source curriculum for learning code and mathematics. Inspired by The [
@@ -247,10 +247,10 @@ In regards to the duration of this project, by my calculations, adding up the es
 > 
 >  <!--START_SECTION:activity-->
 >   - Solve the problem conceptually 
->   - Apply that conceptual understanding into code
+>   - Apply that conceptual understanding to code
 >   - Looking up the answer 
 >   - Understand the solution 
->   - Learn what is the parttern
+>   - Learn what is the pattern
 >  <!--END_SECTION:activity-->
 > </details>
 
